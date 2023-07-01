@@ -8,7 +8,7 @@
 */
 
 // Include teh functions .ino file so the compiler compiles your whole applications
-include myFunctions.ino;
+#include "MyFunctions.ino"
 
 // Store the Pin value as an interger so it can be used on pin and digital methods below.
 int LED_PIN = 13;
