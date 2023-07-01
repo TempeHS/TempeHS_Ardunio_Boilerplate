@@ -1,17 +1,10 @@
 # Ardunio Boilerplate
+1. Before you begin, [set up Visual Studio Code](https://github.com/TempeHS/VisualStudioCodeSetup).
+2. 
+3. Function Boilerplate
+4. OOP boilerplate
 
-
-OOP boilerplate
-    
-    
-Seeed sensor library
-    Folder for each sensor
-    Servo folder
-    Data sheet
-    Sample sketch
-    Link to source in sketch
-    ReadMe with links
-
+## Servo Motor
 
 ## Seeed Sensor Library:
 
@@ -68,3 +61,8 @@ To buy
 Moisture sensor
 Haptic feedback
 MP3
+
+## Shields
+1. [DFRobot LCD/Button Shield](https://wiki.dfrobot.com/LCD_KeyPad_Shield_For_Arduino_SKU__DFR0009)
+2. [Ardunio Motor Shield V3](https://store.arduino.cc/products/arduino-motor-shield-rev3)
+3. [Bluetooth Module]()

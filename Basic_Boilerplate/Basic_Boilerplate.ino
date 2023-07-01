@@ -1,10 +1,10 @@
 /*
-  Turns an LED on for one second, then off for one second, repeatedly.
-
-  Most Arduinos have an on-board LED you can control. On the UNO V3 it is 
+  Purpose: Turns an LED on for one second, then off for one second, repeatedly.
+  Notes: Most Arduinos have an on-board LED you can control. On the UNO V3 it is 
   attached to digital pin 13 which is NOT a PWM pin.
-
-  Written by Ben Jones
+  Author: Ben Jones 1/7/23
+  Contact: benjmain.jones21@det.nsw.edu.au
+  Source: https://youtu.be/mHa1mUd1Kmg
 */
 
 // Store the Pin value as an interger so it can be used on pin and digital methods below.
