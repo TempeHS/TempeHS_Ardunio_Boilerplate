@@ -7,8 +7,12 @@
   Written by Ben Jones
 */
 
+// Include teh functions .ino file so the compiler compiles your whole applications
+include myFunctions.ino;
+
 // Store the Pin value as an interger so it can be used on pin and digital methods below.
 int LED_PIN = 13;
+bool LED_PIN_State = High;
 
 // The setup function runs once when you press reset or power the board
 void setup() {
@@ -18,8 +22,7 @@ void setup() {
 
 // The loop function runs over and over again forever
 void loop() {
-  digitalWrite(LED_PIN, HIGH);  // turn the LED on (HIGH is the voltage level)
-  delay(1000);                      // wait for a second (1000 milliseconds)
-  digitalWrite(LED_PIN, LOW);   // turn the LED off by making the voltage LOW
-  delay(1000);                      // wait for a second (1000 milliseconds)
+  TogglePin(); //Call the TogglePin function
+  digitalWrite(LED_PIN, LED_PIN_State)
+  MyDelayFunction(); //Call the MyDelayFunction
 }
