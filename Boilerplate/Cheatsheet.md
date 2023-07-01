@@ -38,13 +38,10 @@ Random Numbers
 randomSeed(seed) // long or int
 long random(max) // 0 to max-1
 long random(min, max)
-Bits and Bytes
-lowByte(x) highByte(x)
-bitRead(x, bitn)
-bitWrite(x, bitn, bit)
-bitSet(x, bitn)
-bitClear(x, bitn)
-bit(bitn) // bitn: 0=LSB 7=MSB
+Type Conversions
+char(val) byte(val)
+int(val) word(val)
+long(val) float(val)
 External Interrupts
 attachInterrupt(interrupt, func,
 {LOW|CHANGE|RISING|FALLING})
