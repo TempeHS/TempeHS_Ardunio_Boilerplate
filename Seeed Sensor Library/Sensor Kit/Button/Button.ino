@@ -3,6 +3,14 @@
   https://wiki.seeedstudio.com/Grove-Button/
 */
 
+/*
+  Purpose: 
+  Notes: 
+  Author: Ben Jones ??/7/23
+  Contact: benjmain.jones21@det.nsw.edu.au
+  Source: 
+*/
+
 const int buttonPin = 2;     // the number of the pushbutton pin
 const int ledPin =  13;      // the number of the LED pin
 

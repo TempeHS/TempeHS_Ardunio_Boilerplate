@@ -1,6 +1,9 @@
 /*
-  Connect to digital 12C
-  https://wiki.seeedstudio.com/Grove-OLED-Display-0.96-SSD1315/
+  Purpose: 
+  Notes: Connect to digital 12C
+  Author: Ben Jones ??/7/23
+  Contact: benjmain.jones21@det.nsw.edu.au
+  Source: https://wiki.seeedstudio.com/Grove-OLED-Display-0.96-SSD1315/
 */
 
 #include <Arduino.h>

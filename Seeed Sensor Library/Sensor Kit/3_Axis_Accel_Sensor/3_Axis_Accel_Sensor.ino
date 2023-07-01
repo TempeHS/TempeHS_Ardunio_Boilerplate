@@ -2,6 +2,13 @@
   Connect to I2C - Default 0x19
   https://wiki.seeedstudio.com/Grove-3-Axis-Digital-Accelerometer-LIS3DHTR/
 */
+/*
+  Purpose: 
+  Notes: 
+  Author: Ben Jones ??/7/23
+  Contact: benjmain.jones21@det.nsw.edu.au
+  Source: 
+*/
 
 // This example use I2C.
 #include "LIS3DHTR.h"

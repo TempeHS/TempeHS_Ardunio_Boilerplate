@@ -1,15 +1,11 @@
 /*
- //------------------------------------------------------------
-//Name: Line finder digital mode
-//Function: detect black line or white line
-//Parameter:   When digital signal is HIGH, black line
-//             When digital signal is LOW, white line
-//------------------------------------------------------------- 
-
-  
-  
-  Connect to digital pin 2
-  https://wiki.seeedstudio.com/Grove-Line_Finder/
+  Purpose: Line finder digital mode
+  Notes: Connect to a digital PIN
+  Parameter:  When digital signal is HIGH, black line
+              When digital signal is LOW, white line
+  Author: Ben Jones ??/7/23
+  Contact: benjmain.jones21@det.nsw.edu.au
+  Source: https://wiki.seeedstudio.com/Grove-Line_Finder/
 */
 
 

@@ -1,6 +1,9 @@
 /*
-  Connect to digital pin 2
-  https://wiki.seeedstudio.com/Grove-Red_LED/
+  Purpose: 
+  Notes: Connect to a Digital Pin 1, 2, 4, 7, 8 or 12
+  Author: Ben Jones ??/7/23
+  Contact: benjmain.jones21@det.nsw.edu.au
+  Source: https://wiki.seeedstudio.com/Grove-Red_LED/
 */
 
 void setup() {

@@ -1,6 +1,9 @@
 /*
-  Connect to digital pin 2
-  https://wiki.seeedstudio.com/Grove-Light_Sensor/
+  Purpose: 
+  Notes: 
+  Author: Ben Jones ??/7/23
+  Contact: benjmain.jones21@det.nsw.edu.au
+  Source: https://wiki.seeedstudio.com/Grove-Light_Sensor/
 */
 
 #include <Grove_LED_Bar.h>

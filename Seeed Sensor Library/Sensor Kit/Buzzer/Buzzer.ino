@@ -3,6 +3,14 @@
   https://wiki.seeedstudio.com/Grove-Buzzer/
 */
 
+/*
+  Purpose: 
+  Notes: 
+  Author: Ben Jones ??/7/23
+  Contact: benjmain.jones21@det.nsw.edu.au
+  Source: 
+*/
+
 void setup()
 {
   pinMode(6, OUTPUT);

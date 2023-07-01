@@ -1,6 +1,9 @@
 /*
-  Connect to digital pin 2
-  https://wiki.seeedstudio.com/Grove-Ultrasonic_Ranger/
+  Purpose: 
+  Notes: Connect to a digital PIN
+  Author: Ben Jones ??/7/23
+  Contact: benjmain.jones21@det.nsw.edu.au
+  Source: https://wiki.seeedstudio.com/Grove-Ultrasonic_Ranger/
 */
 
 #include "Ultrasonic.h"

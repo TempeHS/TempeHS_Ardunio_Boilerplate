@@ -1,6 +1,9 @@
 /*
-  Connect to digital pin 2
-  https://wiki.seeedstudio.com/Grove-Sound_Sensor/
+  Purpose: 
+  Notes: Connect to an analogue PIN
+  Author: Ben Jones ??/7/23
+  Contact: benjmain.jones21@det.nsw.edu.au
+  Source: https://wiki.seeedstudio.com/Grove-Sound_Sensor/
 */
 
 const int pinAdc = A0;

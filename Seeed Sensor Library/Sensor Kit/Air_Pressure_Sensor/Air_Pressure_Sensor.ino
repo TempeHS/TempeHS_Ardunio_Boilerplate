@@ -3,6 +3,14 @@
   https://wiki.seeedstudio.com/Grove-Red_LED/
 */
 
+/*
+  Purpose: 
+  Notes: 
+  Author: Ben Jones ??/7/23
+  Contact: benjmain.jones21@det.nsw.edu.au
+  Source: 
+*/
+
 #include "Seeed_BMP280.h"
 #include <Wire.h>
 

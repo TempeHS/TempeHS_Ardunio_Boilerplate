@@ -1,7 +1,12 @@
 /*
-  Connect to digital pin 2
-  https://wiki.seeedstudio.com/Grove-Rotary_Angle_Sensor/
+  Purpose: 
+  Notes: 
+  Author: Ben Jones ??/7/23
+  Contact: benjmain.jones21@det.nsw.edu.au
+  Source: https://wiki.seeedstudio.com/Grove-Rotary_Angle_Sensor/
 */
+
+
 
 /*macro definitions of Rotary angle sensor and LED pin*/
 
