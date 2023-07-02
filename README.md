@@ -61,6 +61,7 @@ To buy
 Moisture sensor
 Haptic feedback
 MP3
+Dust sensor
 
 ## Shields
 1. [DFRobot LCD/Button Shield](https://wiki.dfrobot.com/LCD_KeyPad_Shield_For_Arduino_SKU__DFR0009)
