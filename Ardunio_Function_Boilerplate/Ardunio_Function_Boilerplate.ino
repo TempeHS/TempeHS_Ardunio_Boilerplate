@@ -9,7 +9,7 @@
 
 // Store the Pin value as an interger so it can be used on pin and digital methods below.
 int LED_PIN = 13;
-bool LED_PIN_State = High;
+bool LED_PIN_State = HIGH;
 
 // The setup function runs once when you press reset or power the board
 void setup() {

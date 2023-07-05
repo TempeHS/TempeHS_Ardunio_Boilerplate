@@ -21,9 +21,9 @@ void setup() {
 // The loop function runs over and over again forever
 void loop() {
   digitalWrite(LED_PIN, HIGH);  // turn the LED on (HIGH is the voltage level)
-  Serial.println("LED ON!")    // Print LED status to serial monitor
+  Serial.println("LED ON!");    // Print LED status to serial monitor
   delay(1000);                      // wait for a second (1000 milliseconds)
   digitalWrite(LED_PIN, LOW);   // turn the LED off by making the voltage LOW
-  Serial.println("LED OFF!")     // Print LED status to serial monitor
+  Serial.println("LED OFF!");     // Print LED status to serial monitor
   delay(1000);                      // wait for a second (1000 milliseconds)
 }

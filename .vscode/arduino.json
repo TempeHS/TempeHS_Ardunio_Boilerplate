@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "Ardunio_Core_Boilerplate\\Ardunio_Core_Boilerplate.ino",
+    "port": "COM3"
+}

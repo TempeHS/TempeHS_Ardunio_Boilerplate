@@ -18,5 +18,5 @@ void TogglePin() {
 }
 
 void DebugLED() {
-  Serial.println("The LED connected to PIN " + String(LED_PIN) + " is " + String(LED_PIN_State))     // Print LED status to serial monitor
+  Serial.println("The LED connected to PIN " + String(LED_PIN) + " is " + String(LED_PIN_State));     // Print LED status to serial monitor
 }
