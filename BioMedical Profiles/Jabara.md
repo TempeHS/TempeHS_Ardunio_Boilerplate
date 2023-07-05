@@ -10,5 +10,3 @@ If you would like to know more about what I need please email me jabara@outlook.
 - Patient adapted to current adjustable mobility prosthetic well.
 - Patient has broken two prosthetics playing sport.
 - Patient growth has stabilised and requires a long-term prosthetic design.
-- Prosthetics engineers have a mould of the patient stub but don't understand how the patient broke two prosthetics.
-- Prosthetic engineers have requested a force and environmental report to inform their engineering design for a sports-specific prosthetic.
