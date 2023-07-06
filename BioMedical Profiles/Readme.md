@@ -1,5 +1,5 @@
 # Biomedical Mechatronics
-Biomedical Engineering is the application of engineering principles to developing technologies and solving problems in a diverse range of health care related fields. Biomedical Mechatronics is branch of BE specifcially focused on engineering solutions using mechatronic compoents including sensors, actuators and feedback systems managed by a processing and control systems.
+Biomedical Engineering is the application of engineering principles to developing technologies and solving problems in a diverse range of healthcare-related fields. Biomedical Mechatronics is a branch of Biomedical Engineering specifically focused on engineering solutions using mechatronic components including sensors, actuators, and feedback systems managed by processing and control systems.
 
 ## Patentient profiles
 1. [David](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical%20Profiles/David.md)
