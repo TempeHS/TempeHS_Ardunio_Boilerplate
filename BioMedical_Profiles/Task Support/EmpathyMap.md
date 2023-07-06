@@ -3,7 +3,7 @@ As UX professionals, it is our job to advocate on behalf of the user. However, i
 > Definition: An empathy map is a collaborative visualisation used to articulate what we know about a particular type of user. It externalises knowledge about users to create a shared understanding of user needs, and aid in decision-making.
 Empathy maps should be used throughout any UX process to establish common ground among team members and to understand and prioritize user needs. In user-centered design, empathy maps are best used from the very beginning of the design process.
  
-![](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Profiles/Task%20Support/EmpathyMap.png "")
+![](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Profiles/Task%20Support/EmpathyMap.png)
 
 ## The four quadrants of empathy mapping
 The **Says** quadrant contains what the user says out loud in an interview or some other usability study. Ideally, it contains verbatim and direct quotes from research.
