@@ -13,10 +13,10 @@ Students will design, document, and prototype a Biomedical device specific to a 
 - Folder structure for [Code Samples](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/Ardunio_Bootcamp)
 - Example of a [high-level concept pictorial](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Task_Support/ConceptPictorialExample.jpg)
 - [TinkerCad]()
-- [UAT Test Script]()
+- Download the [UAT Template](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Task_Support/UAT_TestPlan%20Templatev2.docx)
 - What is [Empathy Mapping](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Task_Support/EmpathyMap.md)?
-- [Logic Flow Chart]()
-- [Pseudocode cheatsheet]()
+- [Logic Flow Chart](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Task_Support/PsuedeoCode_StyleGuide.pdf) created in [Draw.io](https://www.draw.io) or Visio (accessed through MS Teams)
+- [Pseudocode Style Guide](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Task_Support/PsuedeoCode_StyleGuide.pdf)
 
 ## Task 4 Support
 - (Ardunio Documentation)[]
