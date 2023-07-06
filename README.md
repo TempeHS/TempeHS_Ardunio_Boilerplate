@@ -6,7 +6,7 @@
 
 ## Servo Motor
 
-## [TempeHS Sensor Library]():
+## [TempeHS Sensor Library](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Library):
 - Environmental Sensors
 - Sound Sensors
 - Colour and Light Sensors
@@ -15,6 +15,7 @@
 - Biomedical
 - Output
 - Electrical
+https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Library
 
 ## TempeHS Shield Library
 1. [DFRobot LCD/Button Shield](https://wiki.dfrobot.com/LCD_KeyPad_Shield_For_Arduino_SKU__DFR0009)
