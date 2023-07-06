@@ -9,14 +9,14 @@ Design Brief:
 Students will design, document, and prototype a Biomedical device specific to a patient’s biomedical needs and personal requirements.
 
 ## Task 3 Support
-- (Patient Profiles)[#Patentient_profiles]
-- Folder structure for (Code Samples)[]
-- Example of a (high-level concept pictorial)[]
-- (TinkerCad)[]
-- (UAT Test Script)[]
-- What is (Empathy Mapping)[]?
-- (Logic Flow Chart)[]
-- (Pseudocode cheatsheet)[]
+- [Patient Profiles](#Patentient_profiles)
+- Folder structure for [Code Samples]()
+- Example of a [high-level concept pictorial]()
+- [TinkerCad]()
+- [UAT Test Script]()
+- What is [Empathy Mapping]()?
+- [Logic Flow Chart]()
+- [Pseudocode cheatsheet]()
 
 ## Task 4 Support
 - (Ardunio Documentation)[]
