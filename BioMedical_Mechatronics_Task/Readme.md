@@ -9,19 +9,19 @@ Design Brief:
 Students will design, document, and prototype a Biomedical device specific to a patient’s biomedical needs and personal requirements.
 
 ## Task 3 Support
-- [Patient Profiles](#Patentient_profiles)
-- Folder structure for [Code Samples]()
-- Example of a [high-level concept pictorial]()
+- [Patient Profiles](#Patient-profiles)
+- Folder structure for [Code Samples](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/Ardunio_Bootcamp)
+- Example of a [high-level concept pictorial](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Task_Support/ConceptPictorialExample.jpg)
 - [TinkerCad]()
 - [UAT Test Script]()
-- What is [Empathy Mapping]()?
+- What is [Empathy Mapping](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Task_Support/EmpathyMap.md)?
 - [Logic Flow Chart]()
 - [Pseudocode cheatsheet]()
 
 ## Task 4 Support
 - (Ardunio Documentation)[]
 
-## Patentient profiles
+## Patient profiles
 1. [David](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Patient_Profiles/David.md)
 2. [Vivian](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Patient_Profiles/Vivian.md)
 3. [Michelle](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Patient_Profiles/Michelle.md)
