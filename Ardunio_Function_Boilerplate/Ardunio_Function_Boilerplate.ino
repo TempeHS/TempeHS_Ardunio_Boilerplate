@@ -11,7 +11,6 @@
 int LED_PIN = 13;
 bool LED_PIN_State = HIGH;
 
-// The setup function runs once when you press reset or power the board
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
   pinMode(LED_PIN, OUTPUT);
@@ -19,7 +18,6 @@ void setup() {
   Serial.begin(9600); 
 }
 
-// The loop function runs over and over again forever
 void loop() {
   TogglePin(); //Call the TogglePin function
   digitalWrite(LED_PIN, LED_PIN_State); //Set PIN state
