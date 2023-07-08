@@ -17,6 +17,9 @@
     https://www.arduino.cc/reference/en/language/functions/digital-io/pinmode/
     https://www.arduino.cc/reference/en/language/functions/digital-io/digitalwrite/
     https://docs.arduino.cc/software/ide-v2/tutorials/ide-v2-serial-plotter
+  Schematic:
+    https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/Ardunio_Bootcamp/03.digitalWrite/LED_Schedmatic.png
+
 */
 
 void setup() {

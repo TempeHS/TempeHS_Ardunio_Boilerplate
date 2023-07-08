@@ -15,6 +15,8 @@
   Documentation: 
     https://www.arduino.cc/reference/en/language/functions/digital-io/pinmode/
     https://www.arduino.cc/reference/en/language/functions/digital-io/digitalread/
+  Schematic:
+    
 */
 
 // The setup function runs once when you press reset or power the board
