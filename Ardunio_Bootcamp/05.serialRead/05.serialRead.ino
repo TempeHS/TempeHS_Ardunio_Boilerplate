@@ -13,7 +13,7 @@
   Documentation: 
     https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/
   Schematic:
-    https://www.tinkercad.com/things/kSX9CqedYeX?sharecode=eYYWDcM8F9OS2TUEujdDsoekSHmj3-VeZ9YSi0uWTYI
+    https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/Ardunio_Bootcamp/05.serialRead/Bootcamp-serialRead.png
 */
 
 // The setup function runs once when you press reset or power the board
