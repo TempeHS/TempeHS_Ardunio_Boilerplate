@@ -1,11 +1,12 @@
 /*
   Author: 
-  Learning Intention: The students will learn how to wire two motors to a H-Bridge controller and control the motors speed and direction.
+  Learning Intention: The students will learn how to wire two motors to an H-Bridge controller and control the motor's speed and direction.
   Success Criteria:
-    1. I understand what a H bidge is and what it does
-    2. I can fit the shield correctly to teh Arduino
+    1. I understand what an H-Bridge is and what it does
+    2. I can fit the shield correctly to the Arduino
     2. I can manually write different directions and speeds to two motors
     3. I understand the advantages and disadvantages of a continuous servo over a motor and H bridge
+    4. Understand the importance of only connecting an external battery when the Arduino is disconnected from the computer
 
   Student Notes: 
 
