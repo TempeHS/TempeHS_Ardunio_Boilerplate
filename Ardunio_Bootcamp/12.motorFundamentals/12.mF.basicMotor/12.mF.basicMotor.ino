@@ -13,7 +13,8 @@
     https://github.com/arduino-libraries/Servo <-- We are still using this library
 
   Schematic:
-    https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/Ardunio_Bootcamp/12.motorFundamentals/12.mF.continuousServoMotor/Bootcamp-continuousServoMotor.png
+    https://www.tinkercad.com/things/iTZt6Gd6DLI?sharecode=WDpjlmhr2QUVuLhaYbdkKe5pCzS_qejdyxEPSRBkTf8
+    https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/Ardunio_Bootcamp/12.motorFundamentals/12.mF.basicMotor/Bootcamp-basicMotor.png
 */
 
 #include <Servo.h>
