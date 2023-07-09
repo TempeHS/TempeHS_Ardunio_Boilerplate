@@ -1,52 +1,25 @@
 /*
   Author: 
-  Learning Intention: The students will learn how to connect and control a continuous 360-degree servo.
+  Learning Intention: The students will learn how to connect and control two direct wired motors.
   Success Criteria:
-    1. I understand how to power the Servo externally from the Arduino
-    2. I understand the benefits of powering a motor externally
-    2. I can manually write different directions and speeds to two servos
-    3. I understand the advantages and disadvantages of a continuous servo over a motor and H bridge
+    1. I can wire two basic motors
+    2. I understand that the reverse polarity is why they spin in different directions
+    3. I can control the motor speed with a potentiometer
+    4. I understand that this is a rarely needed use case for motors and a microcontroller
 
   Student Notes: 
 
   Documentation: 
-    https://github.com/arduino-libraries/Servo <-- We are still using this library
-
+    
   Schematic:
-    https://www.tinkercad.com/things/iTZt6Gd6DLI?sharecode=WDpjlmhr2QUVuLhaYbdkKe5pCzS_qejdyxEPSRBkTf8
     https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/Ardunio_Bootcamp/12.motorFundamentals/12.mF.basicMotor/Bootcamp-basicMotor.png
 */
 
-#include <Servo.h>
-
-Servo leftMotor;  // create servo object to control the left continuous servo
-Servo rightMotor;  // create servo object to control the right continuous servo
-
-void setup() {
-    // Associate the control pin with each motor
-  leftMotor.attach(2);
-  rightMotor.attach(4);
-
-  // Set both servos to stationary.
-  leftMotor.write(90);
-  rightMotor.write(90);
+void setup () {
+ pinMode(12, OUTPUT);
+ digitalWrite(12,HIGH);
 }
 
-void loop() {
-    // Servo spins forward at full speed for 3 seconds.
-  leftMotor.write(180);
-  rightMotor.write(0);
-  delay(3000);
-  // Servo is stationary for 1 seconds.
-  leftMotor.write(90);
-  rightMotor.write(90);
-  delay(1000);
-  // Servo spins in reverse at full speed for 3 seconds.
-  leftMotor.write(0);
-  rightMotor.write(180);
-  delay(3000);
-  // Servo is stationary for 13 seconds.
-  leftMotor.write(90);
-  rightMotor.write(90);
-  delay(1000);
+void loop () {
+  
 }
