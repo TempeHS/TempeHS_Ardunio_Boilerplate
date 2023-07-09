@@ -15,16 +15,15 @@
   Documentation: 
     https://www.arduino.cc/reference/en/language/functions/digital-io/pinmode/
     https://www.arduino.cc/reference/en/language/functions/digital-io/digitalread/
+    https://docs.arduino.cc/built-in-examples/digital/Debounce
   Schematic:
     https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/Ardunio_Bootcamp/04.digitalRead/Bootcamp-digitalRead.png
 */
 
-// The setup function runs once when you press reset or power the board
 void setup() {
 
 }
 
-// The loop function runs over and over again forever
 void loop() {
 
 }
