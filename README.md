@@ -54,7 +54,6 @@
 - Biomedical
 - Electrical
 
-
 ## TempeHS Shields & Modules
 1. [DFRobot LCD/Button Shield](https://wiki.dfrobot.com/LCD_KeyPad_Shield_For_Arduino_SKU__DFR0009)
 2. [Ardunio Motor Shield V3](https://store.arduino.cc/products/arduino-motor-shield-rev3)
@@ -67,5 +66,4 @@
 2. Flow chart design: [Draw.IO Diagrams](https://app.diagrams.net/)
 3. 3D Design & Models: [TempeHS_3D_Modelling_For_Mechatronics](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_3D_Modelling_For_Mechatronics)
 4. Psuedocode: [TempeHS Psuedocode CheatSheet & Examples](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/PsuedeoCode%20StyleGuide.pdf)
-5. IPO Table:
-
+5. IPO Table: [Video Explaining IPO Tables](https://www.youtube.com/watch?v=a10a11oxjrA)
