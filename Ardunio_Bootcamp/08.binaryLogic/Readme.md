@@ -93,5 +93,5 @@
     }
 
 *Notes:*
-- *This is one of the more advanced logic control structures*
-- *You can remove `break` to allow multiple case statements to be applied*
+- *This is one of the more advanced binary logic control structures*
+- *As per the flowchart you can add/remove `break;` to allow multiple case statements to be applied for example in the above flowchart if `x = 1;` the code would enter at `case 1` then run `case 2` until it reaches the fist `break;`.*
