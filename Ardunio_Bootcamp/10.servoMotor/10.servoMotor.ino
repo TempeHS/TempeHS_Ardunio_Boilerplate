@@ -5,6 +5,7 @@
     1. I understand how to connect the servo motor
     2. I can manually write different degrees of movement to the servo
     3. I can map a potentiometer to a servo and control its movement
+    4. I understand that a 180deg servo angle of movement is set by a frequency signal sent from the microcontroller
 
   Student Notes: 
 

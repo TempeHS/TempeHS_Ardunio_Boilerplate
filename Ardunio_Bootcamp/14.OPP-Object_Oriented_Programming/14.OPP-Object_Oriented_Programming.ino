@@ -1,6 +1,6 @@
 /*
   Author: 
-  Learning Intention: The students will learn basic math and arithmetic operations
+  Learning Intention: The students will learn about the Object Oriented Paradigm and how to make their own objects
     1. 
 
   Student Notes:
