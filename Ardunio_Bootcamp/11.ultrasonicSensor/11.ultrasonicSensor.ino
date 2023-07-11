@@ -6,6 +6,7 @@
     2. I understand what the trigger and echo pins do
     3. I generally understand what a library is
     4. I can get a distance measurement from a untrasonic sensor
+    5. I can apply this knowledge to the Ultrasonic Sensor in the sensor kit
 
   Student Notes: 
 

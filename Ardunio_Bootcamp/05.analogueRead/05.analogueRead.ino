@@ -6,7 +6,7 @@
     2. I know how to read analogue data from a specific PIN
     3. I know the range of analogue data
     4. I can organise output data so it correctly plots on the serial monitor
-    7. I can connect digital Seeed sensors and read data from them
+    5. I can apply this knowledge to the Light, Sound and Rotary Potentiometer in the sensor kit
 
   Student Notes: 
 

@@ -10,6 +10,7 @@
     6. I understand that a resistor is needed to reduce the voltage for the LED
     7. I understand what 'static' means before the int declaration
     8. I can organise output data so it correctly plots on the serial monitor
+    9. I can apply this knowledge to the LED & Buzzer in the sensor kit
 
   Student Notes: 
 
