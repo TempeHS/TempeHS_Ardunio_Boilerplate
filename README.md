@@ -1,4 +1,16 @@
 # Ardunio Boilerplate
+
+## Index
+1. [Core Components]()
+2. [PipeLines]()
+    1. [Bootcamp PipeLine]()
+    2. [BoilerPlate PipeLine]()
+3. [TempeHS Actuators]()
+4. []()
+5. []()
+
+
+## Core Components
 1. Before you begin, [set up Visual Studio Code](https://github.com/TempeHS/VisualStudioCodeSetup).
 2. [Core Boilerplate](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/Ardunio_Core_Boilerplate)
 3. [Function Boilerplate](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/Ardunio_Function_Boilerplate)
@@ -22,8 +34,15 @@
 - 9g 180Deg Micro Servos 
 - 360Deg continuous Servos
 - Bi axial right angle 1:48 DC geared hobby motor
-- Seead Vibration Motor
 
+
+### TempeHS Output Sensors
+### [TempeHS Sensor Library](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Library):
+- LCD & OLED Displays
+- LED
+- Haptic feedback
+- Digit Displays
+- LED Arrays/Bars
 
 ## TempeHS Sensors
 ### [TempeHS Sensor Library](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Library):
