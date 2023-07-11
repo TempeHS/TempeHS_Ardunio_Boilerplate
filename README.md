@@ -35,17 +35,15 @@
 - 360Deg continuous Servos
 - Bi axial right angle 1:48 DC geared hobby motor
 
-
 ### TempeHS Output Sensors
-### [TempeHS Sensor Library](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Library):
 - LCD & OLED Displays
 - LED
 - Haptic feedback
 - Digit Displays
 - LED Arrays/Bars
+[TempeHS Sensor Library](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Library)
 
 ## TempeHS Sensors
-### [TempeHS Sensor Library](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Library):
 - Environmental Sensors
 - Sound Sensors
 - Colour and Light Sensors
@@ -54,6 +52,7 @@
 - Biomedical
 - Output
 - Electrical
+[TempeHS Sensor Library](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Library)
 
 ## TempeHS Shield & Module Library
 1. [DFRobot LCD/Button Shield](https://wiki.dfrobot.com/LCD_KeyPad_Shield_For_Arduino_SKU__DFR0009)
