@@ -63,5 +63,7 @@
 5. [4 Motor H Bridge]()
 
 ## Planning & Modelling Mechatronic Tools
-1. 
+1. Circuit design and testing: [TINKERCAD Circuits](https://www.tinkercad.com/dashboard?collection=designs&type=circuits)
+2. Flow chart design: [Draw.IO Diagrams](https://app.diagrams.net/)
+3. 3D Design & Models: [TempeHS_3D_Modelling_For_Mechatronics](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_3D_Models)
 
