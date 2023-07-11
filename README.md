@@ -6,9 +6,11 @@
     1. [Bootcamp PipeLine]()
     2. [BoilerPlate PipeLine]()
 3. [TempeHS Actuators]()
-4. []()
-5. []()
-
+    1. [Motors]()
+    2. [Output Modules]()
+4. [TempeHS Sensors]()
+5. [TempeHS Shields & Modules]()
+6. [Planning & Modelling Mechatronic Tools]()
 
 ## Core Components
 1. Before you begin, [set up Visual Studio Code](https://github.com/TempeHS/VisualStudioCodeSetup).
@@ -30,17 +32,16 @@
 5. Your `COMMIT`s should match your application development and testing
 
 ## TempeHS Actuators
-### TempeHS Motors
+### Motors
 - 9g 180Deg Micro Servos 
 - 360Deg continuous Servos
 - Bi axial right angle 1:48 DC geared hobby motor
 
-### TempeHS Output Sensors
+### Output Modules
 - LCD & OLED Displays
-- LED
+- LED, LED Array, LED Bar
 - Haptic feedback
-- Digit Displays
-- LED Arrays/Bars
+- Digit Displays  
 [TempeHS Sensor Library](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Library)
 
 ## TempeHS Sensors
@@ -50,20 +51,16 @@
 - Physical Input
 - Space and Movement
 - Biomedical
-- Output
-- Electrical
+- Electrical  
 [TempeHS Sensor Library](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Library)
 
-## TempeHS Shield & Module Library
+## TempeHS Shields & Modules
 1. [DFRobot LCD/Button Shield](https://wiki.dfrobot.com/LCD_KeyPad_Shield_For_Arduino_SKU__DFR0009)
 2. [Ardunio Motor Shield V3](https://store.arduino.cc/products/arduino-motor-shield-rev3)
 3. [Bluetooth Module]()
 4. [MP3 Shield]()
 5. [4 Motor H Bridge]()
 
+## Planning & Modelling Mechatronic Tools
+1. 
 
-To buy
-Moisture sensor
-Haptic feedback
-MP3
-Dust sensor

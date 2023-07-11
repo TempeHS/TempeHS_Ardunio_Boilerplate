@@ -48,3 +48,9 @@
 1. [Relay]()
 2. [Screw Terminal]()
 3. [I2C Hub (6 Port)]()
+
+Seead Sensors to buy:
+- Moisture sensor
+- Haptic feedback
+- MP3
+- Dust sensor
