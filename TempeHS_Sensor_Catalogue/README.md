@@ -1,4 +1,4 @@
-# TempeHS Sensor Library:
+# TempeHS Sensor Catalogue:
 
 ## Environmental Sensors
 1. [Infrared Temperature Sensor]()
@@ -48,6 +48,14 @@
 1. [Relay]()
 2. [Screw Terminal]()
 3. [I2C Hub (6 Port)]()
+
+## Other sensors
+![Kit 1](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/Ardunio_Bootcamp/08.binaryLogic/for_statement.drawio.png) ![Kit 2](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/Ardunio_Bootcamp/08.binaryLogic/for_statement.drawio.png)
+
+
+
+
+
 
 Seead Sensors to buy:
 - Moisture sensor

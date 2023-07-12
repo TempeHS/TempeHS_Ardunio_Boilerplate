@@ -57,7 +57,7 @@
 - *If no logic (i.e. an incrementor or a decrementor) is established to escape the loop it will repeat endlessly.*
 
 ## FOR Statement
-![Tux, the Linux mascot](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/Ardunio_Bootcamp/08.binaryLogic/for_statement.drawio.png)
+![FOR Statement](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/Ardunio_Bootcamp/08.binaryLogic/for_statement.drawio.png)
 
     for (int i = 0; i <= 255; i++) {
         analogWrite(PWMpin, i);
@@ -65,7 +65,7 @@
     }
 
 ## FOR EACH Statement
-![Tux, the Linux mascot](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/Ardunio_Bootcamp/08.binaryLogic/foreach_statement.drawio.png)
+![FOR EACH Statement](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/Ardunio_Bootcamp/08.binaryLogic/foreach_statement.drawio.png)
 
     int arr[]={1,2,3,4,5};   //array initialization
     Serial.print("The elements are: ");
@@ -76,7 +76,7 @@
     }
 
 ## SWITCH CASE Statement
-![Tux, the Linux mascot](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/Ardunio_Bootcamp/08.binaryLogic/switch_case_statement.drawio.png)
+![SWITCH CASE Statement](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/Ardunio_Bootcamp/08.binaryLogic/switch_case_statement.drawio.png)
 
     int x = random(0, 3);
     switch (x) {

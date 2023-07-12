@@ -38,14 +38,14 @@
 - Bi axial right angle 1:48 DC geared hobby motor
 
 ### Output Modules
-[TempeHS Sensor Library](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Library)
+[TempeHS Sensor Catalogue](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue)
 - LCD & OLED Displays
 - LED, LED Array, LED Bar
 - Haptic feedback
 - Digit Displays  
 
 ## TempeHS Sensors
-[TempeHS Sensor Library](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Library)
+[TempeHS Sensor Catalogue](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue)
 - Environmental Sensors
 - Sound Sensors
 - Colour and Light Sensors
@@ -67,3 +67,20 @@
 3. 3D Design & Models: [TempeHS_3D_Modelling_For_Mechatronics](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_3D_Modelling_For_Mechatronics)
 4. Psuedocode: [TempeHS Psuedocode CheatSheet & Examples](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/PsuedeoCode%20StyleGuide.pdf)
 5. IPO Table: [Video Explaining IPO Tables](https://www.youtube.com/watch?v=a10a11oxjrA)
+
+## Power Supply
+1. 9v Battery & holders
+2. 4x 1.5v AA Battery & holders
+3. 6x 1.5v AA Battery & holders
+4. 2x 3.7v 18650 LiOion battery & holders
+5. 0-12v wired variable power source
+
+## Electronic Components
+- 1/4W Metal Film Resistor - 10 ohm ~1M Resistance 1%
+- LED - RED GREEN BLUE ORANGE YELLOW CLEAR RGB
+- Aluminum Electronic Capacitors - 0.1UF-1000UF
+- Ceramic Capacitor - 1PF-100nF
+- PNP/NPN transistors - 2N222 C1815 S9014 BC548 2N2904 C945 S9015 BC549 SN3906 S8050 BC327 BC550 2N5551 S8550 BC337 BC556 SN5551 S9012 BC517 BC557 A1015 S9013 BC547 BC558
+- MOSFet - BS170 BS250 IRF9640 IRFZ24 IRF9630 IRFZ46 IRF540 IRF3710 IRF1010 IRF9630 IRF4905 IRF9540
+- Intergrated Circuits - NE555 LM324N LM393P UA741CN PC817 LM358P LM386N NE5532P ULN2803APG ULN2003APG
+*Note: These are the components we on the shelf at school, not what you are limited to use*
