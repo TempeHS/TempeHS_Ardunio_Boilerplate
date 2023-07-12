@@ -5,8 +5,8 @@
 2. [Air Quality Sensor]()
 3. [Water Sensor]()
 4. [Gas Sensor (MQ9)]()
-5. [Temperature & Humidity*]() - A sensor that detects surrounding temperature and humidity.
-6. [Air Pressure*]() -  A sensor that detects surrounding atmospheric pressure.
+5. [Temperature & Humidity*]() - I2C - A sensor that detects surrounding temperature and humidity.
+6. [Air Pressure*]() - I2C -  A sensor that detects surrounding atmospheric pressure.
 
 ## Sound Sensors
 1. [Loudness Sensor]()
@@ -15,12 +15,13 @@
 ## Colour and Light Sensors
 1. [I2C Colour Sensor]()
 2. [Light Sensor*]() - A sesnor that detects surrounding light intensity.
-3. [Line Finder v1.1*]() -  Sensor that detects a change in colour from black to white or white to black.
+3. [Line Finder v1.1*]() Digital - Sensor that detects a change in colour from black to white or white to black.
 
 ## Physical Input
-1. [Button*]() -  A simple normally off momentary push button.
-2. [Rotary potentiometer*]() - A rotary dial switch.
+1. [Button*]() - Digital - A simple normally off momentary push button.
+2. [Rotary potentiometer*]() - Analogue - A rotary dial switch.
 3. [Vibration Sensor]()
+4. [Joystick]() - Analogue - biaxel joy stick with center button press.
 
 ## Space and Movement
 1. [Mini PIR Motion Sensor]()
@@ -34,14 +35,14 @@
 3. [GSR (Galvanic Skin Response) Sensor]()
 
 ## Output
-1. [Built-in LED]()
+1. [Built-in LED]() - Digital - Single micro LED connected to Pin 13
 3. [4-Digit Display]()
 4. [LED Bar V2.0]()
 5. [Vibration motor]()
 6. [LCD RGB Backlight]()
-7. [LED*]() - A single LED module
-8. [Buzzer*]() - A small piezo buzzer for outputting simple sounds
-9. [2IC 0.96" OLED Display"*]() - A 128×64 dot resolution screen with a compact design for low power consumption.
+7. [LED*]() - PWM or Digital - A single LED module
+8. [Buzzer*]() - PWM or Digital - A small piezo buzzer for outputting simple sounds
+9. [0.96" OLED Display"*]() - I2C - A 128×64 dot resolution screen with a compact design for low power consumption.
 10. [Red LED Matrix w/Driver]()
 
 ## Electrical
@@ -50,12 +51,9 @@
 3. [I2C Hub (6 Port)]()
 
 ## Other sensors
-![Kit 1](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/Ardunio_Bootcamp/08.binaryLogic/for_statement.drawio.png) ![Kit 2](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/Ardunio_Bootcamp/08.binaryLogic/for_statement.drawio.png)
-
-
-
-
-
+*Note these generic sensors they are common but require research and testing as they are not documented like above sensors.*
+![Kit 1](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/TempeHS_Sensor_Catalogue/generic_sensor_kit1.png)
+![Kit 2](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/TempeHS_Sensor_Catalogue/generic_sensor_kit2.png)
 
 Seead Sensors to buy:
 - Moisture sensor
