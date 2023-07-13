@@ -44,8 +44,9 @@
 - Haptic feedback
 - 3.7V 716RPM Micro Coreless DC Motors
 - 3.7V 8520RMP Micro Coreless DC Motors
-- ??v water pumps
-- ??v hobby motors
+- 6V Motor with 75:1 metal gearbox providing 12 kg*cm (1.1 Nm) of torque at 133 rpm
+- Water Pump Motor - DC 12V/370-04PM 
+- 6v 130 sized DC hobby motor 
 *Note: we have a range of wheels and propellers for all our motors or you can 3D deisgn and manufacture your own*
 
 ## TempeHS Display Modules
@@ -87,8 +88,10 @@
 3. 6x 1.5v AA Battery & holders
 4. 2x 3.7v 18650 LiOion battery & holders
 5. 0-12v wired variable power source
+6. 5v USB breadboad powerhead
 
 ## TempeHS Electronic Components
+- Nuts and Bolts - M3 M2.5 M2 M1.6
 - 1/4W Metal Film Resistor - 10 ohm ~1M Resistance 1%
 - LED - RED GREEN BLUE ORANGE YELLOW CLEAR RGB
 - Aluminum Electronic Capacitors - 0.1UF-1000UF
@@ -98,6 +101,10 @@
 - Intergrated Circuits - NE555 LM324N LM393P UA741CN PC817 LM358P LM386N NE5532P ULN2803APG ULN2003APG
 - Connectors - Double row screw terminal block PCB screw wire terminal block
 - Switches - 3pin PCB sliding toggle switch NO momentary switches 3pin PCB mini limit switch NO NC 3 Pins PCB roller arc lever snap action push
+- Light dependant resistors
+- Potentiometer - 10M Linear
+- Speaker - 8Ω 0.25W speaker, Piezo speaker
+- Wire - 30 AWG wraping wire 13x0.12 Hook up wire Conductive tape
 *Note: These are the components we on the shelf at school, not what you are limited to use*
 
 ## TempeHS Mechatronic & Electronic Tools
@@ -113,6 +120,7 @@
 - 150mm metal ruler
 - Precision Screwdriver Kit
 - Desoldering pump
+- Locking scissor clamp
 
 ### Bench tools
 - Soldering iron & air filter/extractor
