@@ -1,9 +1,12 @@
 /*
-  Purpose: 
-  Notes: Connect to digital 12C
+  Purpose: Basic example of writing text to the OLED display, read notes before using and manual for doing more than simple text.
+  Notes:
+    1. Connect to digital 12C
+    2. Navigate to Sketch -> Include Library -> Manage Libraries... and Search and Install U8g2 library in the Library Manager.
   Author: Ben Jones ??/7/23
   Contact: benjmain.jones21@det.nsw.edu.au
   Source: https://wiki.seeedstudio.com/Grove-OLED-Display-0.96-SSD1315/
+  Manual: https://github.com/olikraus/u8g2/wiki/u8g2reference
 */
 
 #include <Arduino.h>
@@ -28,7 +31,7 @@ void setup(void) {
 void loop(void) {
   u8g2.clearBuffer();                   // clear the internal memory
   u8g2.setFont(u8g2_font_ncenB08_tr);   // choose a suitable font
-  u8g2.drawStr(0,10,"Hello World!");    // write something to the internal memory
+  u8g2.drawStr(0,10,"Hello World! sndbasd sdbsa sajdbd  jasd jasdsd");    // write something to the internal memory
   u8g2.sendBuffer();                    // transfer internal memory to the display
   delay(1000);  
 }

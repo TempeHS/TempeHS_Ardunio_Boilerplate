@@ -1,5 +1,5 @@
 /*
-  Purpose: 
+  Purpose: Basic example of the Seead Ultrasonic Ranger module
   Notes: Connect to a digital PIN
   Author: Ben Jones ??/7/23
   Contact: benjmain.jones21@det.nsw.edu.au

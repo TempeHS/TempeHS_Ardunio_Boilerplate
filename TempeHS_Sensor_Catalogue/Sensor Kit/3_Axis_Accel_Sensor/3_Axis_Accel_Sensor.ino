@@ -1,13 +1,10 @@
 /*
-  Connect to I2C - Default 0x19
-  https://wiki.seeedstudio.com/Grove-3-Axis-Digital-Accelerometer-LIS3DHTR/
-*/
-/*
-  Purpose: 
-  Notes: 
+  Purpose: Basic example of reading data from the 3-Axis Accelerometer.
+  Notes:
+    Connect to I2C - Default 0x19
   Author: Ben Jones ??/7/23
   Contact: benjmain.jones21@det.nsw.edu.au
-  Source: 
+  Source: https://wiki.seeedstudio.com/Grove-3-Axis-Digital-Accelerometer-LIS3DHTR/
 */
 
 // This example use I2C.
@@ -18,14 +15,9 @@ LIS3DHTR<TwoWire> LIS; //IIC
 
 void setup()
 {
-  Serial.begin(115200);
-  while (!Serial)
-  {
-  };
-  LIS.begin(WIRE,0x19); //IIC init
-  //LIS.begin(0x19);
-  LIS.openTemp();  //If ADC3 is used, the temperature detection needs to be turned off.
-  //  LIS.closeTemp();//default
+  Serial.begin(9600);
+  LIS.begin(WIRE,0x19); //Configure wire communciation to 0x19 address
+  LIS.openTemp();
   delay(100);
     LIS.setFullScaleRange(LIS3DHTR_RANGE_2G);
   //  LIS.setFullScaleRange(LIS3DHTR_RANGE_4G);
@@ -50,14 +42,9 @@ void loop()
     return;
   }
   //3 axis
-    Serial.print("x:"); Serial.print(LIS.getAccelerationX()); Serial.print("  ");
-    Serial.print("y:"); Serial.print(LIS.getAccelerationY()); Serial.print("  ");
-    Serial.print("z:"); Serial.println(LIS.getAccelerationZ());
-  //ADC
-  //    Serial.print("adc1:"); Serial.println(LIS.readbitADC1());
-  //    Serial.print("adc2:"); Serial.println(LIS.readbitADC2());
-  //    Serial.print("adc3:"); Serial.println(LIS.readbitADC3());
-
+  Serial.print("x:"); Serial.print(LIS.getAccelerationX()); Serial.print("  ");
+  Serial.print("y:"); Serial.print(LIS.getAccelerationY()); Serial.print("  ");
+  Serial.print("z:"); Serial.println(LIS.getAccelerationZ());
   //temperature
   Serial.print("temp:");
   Serial.println(LIS.getTemperature());

@@ -1,14 +1,13 @@
 /*
-  Connect to digital pin 2
-  https://wiki.seeedstudio.com/Grove-Red_LED/
-*/
-
-/*
-  Purpose: 
+  Purpose: Basic example of reading data from the Air Pressure Sensor.
   Notes: 
-  Author: Ben Jones ??/7/23
+    Connect to I2C - 0x77 default or 0x76
+    Operating temperature	-40 - 85 ℃
+    Effective pressure measurement range 300 - 1100 hPa (1 hPa= one hundred Pa) with ±1.0 hPa accuracy
+    Temperature measurement accuracy ±1.0°C
+  Author: Ben Jones 14/7/23
   Contact: benjmain.jones21@det.nsw.edu.au
-  Source: 
+  Source: https://wiki.seeedstudio.com/Grove-Barometer_Sensor-BMP280/
 */
 
 #include "Seeed_BMP280.h"

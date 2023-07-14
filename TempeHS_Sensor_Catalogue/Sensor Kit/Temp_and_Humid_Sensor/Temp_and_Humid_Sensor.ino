@@ -1,51 +1,36 @@
-
 /*
-  Purpose: 
-  Notes: Connect to a digital PIN
+  Purpose: Basic example of reading data from the Temperature & Humidity Sensor.
+  Notes:
+    1. Connect to I2C
+    2. Reading temperature or humidity takes about 250 milliseconds so Sensor readings may also be up to 2 seconds 'old'
   Author: Ben Jones ??/7/23
   Contact: benjmain.jones21@det.nsw.edu.au
-  Source: https://wiki.seeedstudio.com/Grove-TemperatureAndHumidity_Sensor/
+  Source: https://wiki.seeedstudio.com/Grove-Temperature-Humidity-Sensor-DH20/
 */
 
+#include "Wire.h"
+#include "DHT.h"
+#define DHTTYPE DHT20   // DHT 20
+DHT dht(DHTTYPE); 
 
 
-/* How to use the DHT-22 sensor with Arduino uno
-   Temperature and humidity sensor
-*/
 
-//Libraries
-#include <DHT.h>;
+void setup() {
 
-//Constants
-#define DHTPIN 7     // what pin we're connected to
-#define DHTTYPE DHT22   // DHT 22  (AM2302)
-DHT dht(DHTPIN, DHTTYPE); //// Initialize DHT sensor for normal 16mhz Arduino
-
-
-//Variables
-int chk;
-float hum;  //Stores humidity value
-float temp; //Stores temperature value
-
-void setup()
-{
-  Serial.begin(9600);
-  dht.begin();
+    Serial.begin(9600);
+    Wire.begin();
+    dht.begin();
 }
 
-void loop()
-{
-    delay(2000);
-    //Read data and store it to variables hum and temp
-    hum = dht.readHumidity();
-    temp= dht.readTemperature();
-    //Print temp and humidity values to serial monitor
-    Serial.print("Humidity: ");
-    Serial.print(hum);
-    Serial.print(" %, Temp: ");
-    Serial.print(temp);
-    Serial.println(" Celsius");
-    delay(10000); //Delay 2 sec.
-}
+void loop() {
+    float temp_hum_val[2] = {0};
 
-   
+        Serial.print("Humidity: ");
+        Serial.print(temp_hum_val[0]);
+        Serial.print(" %\t");
+        Serial.print("Temperature: ");
+        Serial.print(temp_hum_val[1]);
+        Serial.println(" *C");
+
+    delay(1500);
+}
