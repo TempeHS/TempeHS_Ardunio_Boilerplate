@@ -1,28 +1,23 @@
 /*
-  Purpose: 
-  Notes: 
+  Purpose: Basic example of the Rotary Potentiometer Seead input sensor
+  Notes: Max light = 800 / Min Light = 0
   Author: Ben Jones ??/7/23
   Contact: benjmain.jones21@det.nsw.edu.au
   Source: https://wiki.seeedstudio.com/Grove-Light_Sensor/
 */
 
-#include <Grove_LED_Bar.h>
-
-Grove_LED_Bar bar(3, 2, 0);  // Clock pin, Data pin, Orientation
+static unsigned int lightSensorPIN = A0;
 
 void setup()
 {
-  // nothing to initialize
-  bar.begin();
-  bar.setGreenToRed(true);
+    Serial.begin(9600);
+    pinMode(lightSensorPIN, INPUT); 
 }
 
 void loop()
-{
+{   
+  static unsigned int sensorValue = analogRead(lightSensorPIN);
+  static unsigned int PWMMapOutput = map(sensorValue, 0, 800, 0, 255); //example only not used in this application
 
-  int value = analogRead(A0);
-  value = map(value, 0, 800, 0, 10);
-
-  bar.setLevel(value);
-  delay(100);
+  Serial.println(analogRead(sensorValue));
 }

@@ -1,19 +1,32 @@
 /*
-  Purpose: 
-  Notes: 
-  Author: Ben Jones ??/7/23
+  Purpose: Basic example of the Rotary Potentiometer Seead input sensor
+  Notes: Below the main code is a more advanced example that uses voltage input to measure the ange of motion
+  Author: Ben Jones 13/7/23
   Contact: benjmain.jones21@det.nsw.edu.au
   Source: https://wiki.seeedstudio.com/Grove-Rotary_Angle_Sensor/
 */
 
+static unsigned int potPIN = A0;
+
+void setup()
+{
+    Serial.begin(9600);
+    pinMode(potPIN, INPUT); 
+}
+
+void loop()
+{   
+  Serial.println(analogRead(potPIN));
+}
 
 
-/*macro definitions of Rotary angle sensor and LED pin*/
 
+/*
+
+//macro definitions of Rotary angle sensor and LED pin
 #define ROTARY_ANGLE_SENSOR A0
 #define LED 3  //the Grove - LED is connected to PWM pin D3 of Arduino
 #define ADC_REF 5 //reference voltage of ADC is 5v.If the Vcc switch on the seeeduino
-                    //board switches to 3V3, the ADC_REF should be 3.3
 #define GROVE_VCC 5 //VCC of the grove interface is normally 5v
 #define FULL_ANGLE 300 //full value of the rotary angle is 300 degrees
 
@@ -38,3 +51,4 @@ void loop()
     analogWrite(LED,brightness);
     delay(500);
 }
+*/

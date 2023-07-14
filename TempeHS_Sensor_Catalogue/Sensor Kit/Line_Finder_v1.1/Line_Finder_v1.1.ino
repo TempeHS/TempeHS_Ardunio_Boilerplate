@@ -1,25 +1,19 @@
 /*
-  Purpose: Line finder digital mode
-  Notes: Connect to a digital PIN
-  Parameter:  When digital signal is HIGH, black line
-              When digital signal is LOW, white line
-  Author: Ben Jones ??/7/23
+  Purpose: Basic example of the Red LED Seead output module
+  Notes: 
+  Author: Ben Jones 13/7/23
   Contact: benjmain.jones21@det.nsw.edu.au
-  Source: https://wiki.seeedstudio.com/Grove-Line_Finder/
+  Source: https://www.seeedstudio.com/Grove-Red-LED.html
 */
 
+static unsigned int lineFollower = 3;
 
-int signalPin =  3;    // connected to digital pin 3
-void setup()   {
-  pinMode(signalPin, INPUT); // initialize the digital pin as an output:
-  Serial.begin(9600);  // initialize serial communications at 9600 bps:
+void setup() {
+  Serial.begin(9600);
+  pinMode(lineFollower, INPUT);
 }
-// the loop() method runs over and over again,
-// as long as the Arduino has power
-void loop()
-{
-  if(HIGH == digitalRead(signalPin))
-    Serial.println("black");
-  else  Serial.println("white");  // display the color
-  delay(1000);                  // wait for a second
+
+void loop() {
+  Serial.print("lineFollower:");
+  Serial.println(digitalRead(lineFollower));
 }
