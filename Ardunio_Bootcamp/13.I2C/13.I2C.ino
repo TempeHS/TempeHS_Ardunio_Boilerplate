@@ -19,7 +19,8 @@
 
 */
 
-#include <Wire.h>
+//The Wire-h library is built into Ardunio IDE there is no need to side load it like the Ultrasonic Sensor library
+
 
 void setup() {
 

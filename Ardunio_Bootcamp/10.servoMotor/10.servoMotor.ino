@@ -18,6 +18,9 @@
     https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/Ardunio_Bootcamp/10.servoMotor/Bootcamp-servoMotor.png
 */
 
+//The Servo-h library is built into Ardunio IDE there is no need to side load it like the Ultrasonic Sensor library
+
+
 void setup() {
 
 }
