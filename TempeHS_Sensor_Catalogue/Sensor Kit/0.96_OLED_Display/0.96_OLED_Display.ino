@@ -1,28 +1,22 @@
 /*
-  Purpose: Basic example of writing text to the OLED display, read notes before using and manual for doing more than simple text.
+  Purpose: Basic example of writing text to the OLED display
   Notes:
-    1. Connect to digital 12C
-    2. Navigate to Sketch -> Include Library -> Manage Libraries... and Search and Install U8g2 library in the Library Manager.
-  Author: Ben Jones ??/7/23
+    1. Connect to I2C - 0x78 default address can be changed to 0x78
+    2. Monochrome(white) 128×64 pixels
+    3. Navigate to Sketch -> Include Library -> Manage Libraries... and Search and Install U8g2 library in the Library Manager
+    4. Read the manual for doing more than writing simple text
+  Author: Ben Jones 14/7/23
   Contact: benjmain.jones21@det.nsw.edu.au
   Source: https://wiki.seeedstudio.com/Grove-OLED-Display-0.96-SSD1315/
   Manual: https://github.com/olikraus/u8g2/wiki/u8g2reference
+  Library Source: https://github.com/olikraus/u8g2
 */
 
 #include <Arduino.h>
 #include <U8g2lib.h>
-
-#ifdef U8X8_HAVE_HW_SPI
-#include <SPI.h>
-#endif
-#ifdef U8X8_HAVE_HW_I2C
 #include <Wire.h>
-#endif
-
 
 U8G2_SSD1306_128X64_NONAME_F_HW_I2C u8g2(U8G2_R0, /* clock=*/ SCL, /* data=*/ SDA, /* reset=*/ U8X8_PIN_NONE);  // High speed I2C
-
-// U8G2_SSD1306_128X64_NONAME_F_SW_I2C u8g2(U8G2_R0, /* clock=*/ SCL, /* data=*/ SDA, /* reset=*/ U8X8_PIN_NONE);    //Low speed I2C
 
 void setup(void) {
   u8g2.begin();
@@ -31,7 +25,7 @@ void setup(void) {
 void loop(void) {
   u8g2.clearBuffer();                   // clear the internal memory
   u8g2.setFont(u8g2_font_ncenB08_tr);   // choose a suitable font
-  u8g2.drawStr(0,10,"Hello World! sndbasd sdbsa sajdbd  jasd jasdsd");    // write something to the internal memory
+  u8g2.drawStr(0,10,"Hello World!");    // write something to the internal memory
   u8g2.sendBuffer();                    // transfer internal memory to the display
   delay(1000);  
 }

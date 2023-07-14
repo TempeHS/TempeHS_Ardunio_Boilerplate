@@ -1,8 +1,8 @@
 /*
   Purpose: Example of the Seead sound level sensor where the sensor with make 32 samples of the sound level then output the average of those samples
   Notes:
-    1. This sound sensor is used to detect whether there's sound surround or not.
-    2. Connect to analgue PIN
+    1. Connect to an anlogue pin
+    2. This sound sensor is used to detect whether there is sound surround or not.
   Author: Ben Jones 14/7/23
   Contact: benjmain.jones21@det.nsw.edu.au
   Source: https://wiki.seeedstudio.com/Grove-Sound_Sensor/

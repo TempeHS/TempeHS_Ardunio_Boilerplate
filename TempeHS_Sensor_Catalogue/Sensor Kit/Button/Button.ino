@@ -1,6 +1,9 @@
 /*
-  Purpose: Basic example of the Red LED Seead output module
+  Purpose: Basic example of the momentary button switch input module
   Notes: 
+    1. Connect to a Digital pin
+    2. Normally open momentary switch
+    3. Wired for pull up only
   Author: Ben Jones 13/7/23
   Contact: benjmain.jones21@det.nsw.edu.au
   Source: https://www.seeedstudio.com/Grove-Red-LED.html

@@ -1,5 +1,5 @@
 /*
-  Purpose: Basic example of the Rotary Potentiometer Seead input sensor
+  Purpose: Basic example of the Seead Rotary Potentiometer input sensor
   Notes: Below the main code is a more advanced example that uses voltage input to measure the ange of motion
   Author: Ben Jones 13/7/23
   Contact: benjmain.jones21@det.nsw.edu.au

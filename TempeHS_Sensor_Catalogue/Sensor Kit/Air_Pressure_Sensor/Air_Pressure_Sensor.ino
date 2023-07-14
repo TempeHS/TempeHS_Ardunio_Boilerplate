@@ -1,13 +1,14 @@
 /*
-  Purpose: Basic example of reading data from the Air Pressure Sensor.
+  Purpose: Basic example of reading data from the Air Pressure Sensor
   Notes: 
-    Connect to I2C - 0x77 default or 0x76
-    Operating temperature	-40 - 85 ℃
-    Effective pressure measurement range 300 - 1100 hPa (1 hPa= one hundred Pa) with ±1.0 hPa accuracy
-    Temperature measurement accuracy ±1.0°C
+    1. Connect to I2C - 0x77 default or 0x76
+    2. Operating temperature	-40 - 85 ℃
+    3. Effective pressure measurement range 300 - 1100 hPa (1 hPa= one hundred Pa) with ±1.0 hPa accuracy
+    4. Temperature measurement accuracy ±1.0°C
   Author: Ben Jones 14/7/23
   Contact: benjmain.jones21@det.nsw.edu.au
   Source: https://wiki.seeedstudio.com/Grove-Barometer_Sensor-BMP280/
+  Library Source: https://github.com/Seeed-Studio/Grove_BMP280
 */
 
 #include "Seeed_BMP280.h"

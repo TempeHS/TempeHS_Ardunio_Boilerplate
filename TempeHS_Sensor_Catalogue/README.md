@@ -1,4 +1,4 @@
-# TempeHS Sensor Catalogue:
+# TempeHS Sensors Catalogue:
 
 ## Environmental Sensors
 1. [Infrared Temperature Sensor]()
@@ -10,18 +10,18 @@
 
 ## Sound Sensors
 1. [Loudness Sensor]()
-2. [Sound Sensor*]() - A sesnor that detects surrounding sound intensity.
+2. [Sound Sensor*]() - A sensor that detects surrounding sound intensity.
 
 ## Colour and Light Sensors
 1. [I2C Colour Sensor]()
-2. [Light Sensor*]() - A sesnor that detects surrounding light intensity.
+2. [Light Sensor*]() - A sensor that detects surrounding light intensity.
 3. [Line Finder v1.1*]() Digital - Sensor that detects a change in colour from black to white or white to black.
 
 ## Physical Input
 1. [Button*]() - Digital - A simple normally off momentary push button.
 2. [Rotary potentiometer*]() - Analogue - A rotary dial switch.
 3. [Vibration Sensor]()
-4. [Joystick]() - Analogue - biaxel joy stick with center button press.
+4. [Joystick]() - Analogue - bi-axel joy stick with center button press.
 
 ## Space and Movement
 1. [Mini PIR Motion Sensor]()

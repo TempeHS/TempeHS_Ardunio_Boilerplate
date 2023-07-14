@@ -1,10 +1,12 @@
 /*
   Purpose: Basic example of reading data from the 3-Axis Accelerometer.
   Notes:
-    Connect to I2C - Default 0x19
-  Author: Ben Jones ??/7/23
+    1. Connect to I2C - Default 0x19, can be changed to 0x18 when connecting SDO Pin with GND
+    2. Measurement range: ±2g, ±4g, ±8g, ±16g, multiple ranges selection.
+  Author: Ben Jones 14/7/23
   Contact: benjmain.jones21@det.nsw.edu.au
   Source: https://wiki.seeedstudio.com/Grove-3-Axis-Digital-Accelerometer-LIS3DHTR/
+  Library Source: https://github.com/Seeed-Studio/Seeed_Arduino_LIS3DHTR
 */
 
 // This example use I2C.

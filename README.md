@@ -93,7 +93,7 @@
 ## TempeHS Electronic Components
 - Nuts and Bolts - M3 M2.5 M2 M1.6
 - 1/4W Metal Film Resistor - 10 ohm ~1M Resistance 1%
-- LED - RED GREEN BLUE ORANGE YELLOW CLEAR RGB
+- LED - RED GREEN BLUE ORANGE YELLOW CLEAR RGB Infrared
 - Aluminum Electronic Capacitors - 0.1UF-1000UF
 - Ceramic Capacitor - 1PF-100nF
 - PNP/NPN transistors - 2N222 C1815 S9014 BC548 2N2904 C945 S9015 BC549 SN3906 S8050 BC327 BC550 2N5551 S8550 BC337 BC556 SN5551 S9012 BC517 BC557 A1015 S9013 BC547 BC558
@@ -104,8 +104,8 @@
 - Light dependant resistors
 - Potentiometer - 10M Linear
 - Speaker - 8Ω 0.25W speaker, Piezo speaker
-- Wire - 30 AWG wraping wire 13x0.12 Hook up wire Conductive tape
-*Note: These are the components we on the shelf at school, not what you are limited to use*
+- Wire - 30 AWG wraping wire 13x0.12 Hook up wire Conductive tape 22 AWG solid core hook up wire
+*Note: These are the components we on the shelf at school ready for use, not what you are limited to use*
 
 ## TempeHS Mechatronic & Electronic Tools
 ### Handtools
