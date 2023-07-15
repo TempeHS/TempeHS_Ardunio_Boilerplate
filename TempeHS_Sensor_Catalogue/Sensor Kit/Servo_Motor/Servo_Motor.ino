@@ -1,37 +1,26 @@
 /*
-  Author: 
-  Learning Intention: The students will learn how to connect and control a servo motor.
-  Success Criteria:
-    1. I understand how to connect the servo motor
-    2. I can manually write different degrees of movement to the servo
-    3. I can map a potentiometer to a servo and control its movement
-    4. I understand that a 180deg servo angle of movement is set by a frequency signal sent from the microcontroller
-
-  Student Notes: 
-
-  Documentation:
-    https://www.sparkfun.com/servos
-    https://github.com/arduino-libraries/Servo <-- We are still using this library
-
-  Schematic:
-    https://www.tinkercad.com/things/lQ9RyYJRoLn?sharecode=MKlN0A7R0WGodkdTRKkPJO7I8PeI5L_GCR7pCclQ0qM
-    https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/Ardunio_Bootcamp/10.servoMotor/Bootcamp-servoMotor.png
+  Purpose: Basic example of a 180deg Micro Servo connected via a Seead Screw Terminal
+  Notes: 
+    1. Connect to a Digital Pin
+    2. 180 Degree ROM 0-180 values
+  Author: Ben Jones 13/7/23
+  Contact: benjmain.jones21@det.nsw.edu.au
+  Source: https://wiki.seeedstudio.com/Grove-Servo/
 */
 
 #include <Servo.h>
 
-Servo myservo;  // create servo object to control a servo
+Servo myServo;  // create servo object to control a servo
 
-int potpin = A0;  // analog pin used to connect the potentiometer
-int val;    // variable to read the value from the analog pin
+static unsigned int degreeOfMovement = 180;    // variable to read the value from the analog pin
 
 void setup() {
-  myservo.attach(9);  // attaches the servo on pin 9 to the servo object
+  myServo.attach(9);  // attaches the servo on pin 9 to the servo object
 }
 
 void loop() {
-  val = analogRead(potpin);            // reads the value of the potentiometer (value between 0 and 1023)
-  val = map(val, 0, 1023, 0, 180);     // scale it to use it with the servo (value between 0 and 180)
-  myservo.write(val);                  // sets the servo position according to the scaled value
-  delay(15);                           // waits for the servo to get there
+  myServo.write(degreeOfMovement);                // sets the servo position according to the set value
+  delay(5000);                                    // waits for the servo to get there
+  myServo.write(0);                               // returns the servo to 0
+  delay(5000);                                    // waits for the servo to get there
 }

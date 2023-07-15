@@ -7,7 +7,7 @@
     4. Temperature measurement accuracy ±1.0°C
   Author: Ben Jones 14/7/23
   Contact: benjmain.jones21@det.nsw.edu.au
-  Source: https://wiki.seeedstudio.com/Grove-Barometer_Sensor-BMP280/
+  Source: https://wiki.seeedstudio.com/Grove-Barometer_Sensor/
   Library Source: https://github.com/Seeed-Studio/Grove_BMP280
 */
 

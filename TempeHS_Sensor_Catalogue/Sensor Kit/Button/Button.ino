@@ -6,7 +6,7 @@
     3. Wired for pull up only
   Author: Ben Jones 13/7/23
   Contact: benjmain.jones21@det.nsw.edu.au
-  Source: https://www.seeedstudio.com/Grove-Red-LED.html
+  Source: https://wiki.seeedstudio.com/Grove-Button/
 */
 
 static unsigned int myButton = 3;
