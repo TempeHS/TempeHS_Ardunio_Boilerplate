@@ -4,7 +4,7 @@
 1. [Infrared Temperature Sensor]()
 2. [Air Quality Sensor]()
 3. [Water Sensor]()
-4. [Gas Sensor (MQ9)]()
+4. [Gas Sensor (MQ9)](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Environment/Gas_Sensor_MQ9)
 5. [Temperature & Humidity*]() - I2C - A sensor that detects surrounding temperature and humidity.
 6. [Air Pressure*]() - I2C -  A sensor that detects surrounding atmospheric pressure.
 
@@ -47,9 +47,9 @@
 
 ## Electrical
 1. [Relay]()
-2. [Screw Terminal]()
-3. [Grove Female Header]()
-4. [I2C Hub (6 Port)]()
+2. [Screw Terminal](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Electrical/Screw_Termal)
+3. [Grove Female Header](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Electrical/Grove_Female_Header)
+4. [I2C Hub (6 Port)](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Electrical/I2C_Hub)
 
 ## Other sensors
 *Note these generic sensors they are common but require research and testing as they are not documented like above sensors.*
