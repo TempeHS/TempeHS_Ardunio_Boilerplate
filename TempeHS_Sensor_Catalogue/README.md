@@ -48,7 +48,8 @@
 ## Electrical
 1. [Relay]()
 2. [Screw Terminal]()
-3. [I2C Hub (6 Port)]()
+3. [Grove Female Header]()
+4. [I2C Hub (6 Port)]()
 
 ## Other sensors
 *Note these generic sensors they are common but require research and testing as they are not documented like above sensors.*
@@ -60,3 +61,4 @@ Seead Sensors to buy:
 - Haptic feedback
 - MP3
 - Dust sensor
+- MQ2 Sensor
