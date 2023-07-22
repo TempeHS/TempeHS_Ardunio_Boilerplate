@@ -18,16 +18,15 @@
     2. [Bench tools](#Bench-tools)
 
 ## Core Components
-1. Before you begin, [set up Visual Studio Code](https://github.com/TempeHS/VisualStudioCodeSetup).
+1. Before you begin, install [Arduino IDE for Windows](https://drive.google.com/file/d/1ha-3JTMwprRaKoNczq-eIYs7LrxqR_wl/view?usp=drive_link) or [Arduino IDE for MAC](https://drive.google.com/file/d/1hbWTW9vQ1C1OLoO4T3Ryvpsaqmj3jIQ2/view?usp=drive_link)
 2. [Core Boilerplate](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/Ardunio_Core_Boilerplate)
 3. [Function Boilerplate](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/Ardunio_Function_Boilerplate)
 4. [OOP boilerplate](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/Ardunio_OOP_Boilerplate)
 
 ## PipeLines
 ### Bootcamp PipeLine
-1. Create a new GitHub Repo
-2. Copy the contents of the Ardunio_Bootcamp folder the root of your folder
-3. As we work through the Bootcamp, `COMMIT` every succesful solution you code out and either a picture of the TINKERCAD or a photo of the Ardunio and breadboard
+1. Fork the [TempeHS Arduino Bootcamp](https://github.com/TempeHS/TempeHS_Ardunio_Bootcamp) to a repo called `2023IST-Arduino-Bootcamp.Ben.Jones` (year is the year you graduate and the name is your name)
+2. As we work through the Bootcamp, `COMMIT` every succesful solution you code out and either a picture of the TINKERCAD or a photo of the Ardunio and breadboard
 
 ### BoilerPlate PipeLine
 1. Create a new GitHub Repo
