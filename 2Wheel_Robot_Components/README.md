@@ -8,6 +8,8 @@
 4. [5 Channel Analogue Line Finder]() or 1 or more [Digital Line Finder]()
 5. [Ultrasonic Sensor]()
 6. [I2C LCD Screen]()
+7. [DC to DC Step Down Module]()
+8. 2x [Digital line sensor]()'s or [5x analogue line sensor]()
 
 
 ## Optional Sensors
