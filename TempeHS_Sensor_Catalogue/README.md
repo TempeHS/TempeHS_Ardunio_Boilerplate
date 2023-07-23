@@ -28,6 +28,7 @@
 2. [Adjustable PIR Motion Sensor]()
 3. [Ultrasonic Ranger*]() - A sensor that utilizes ultrasonic waves to measure distance.
 4. [3 Axis Acceleration Sensor*]() - A sesnor that detects object acceleration on 3 different axis.
+5. [Smart Human Presence Sensing Radar Module]()
 
 ## Biomedical
 1. [Ear-clip Heart Rate Sensor]()

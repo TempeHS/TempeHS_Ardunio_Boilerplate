@@ -36,23 +36,23 @@
 5. Your `COMMIT`s should match your application development and testing
 
 ## TempeHS Actuators
-[TempeHS Sensor Catalogue](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue)
-- 9g 180Deg Micro Servos 
+- 180Deg Micro Servos Max load: plastic geared are 9g & metal geared are 13.4g
 - 360Deg continuous Servos
-- Bi axial right angle 1:48 DC geared hobby motor
-- Haptic feedback
+- Bi axial right angle 1:48 DC geared hobby motor (plastic & metal geared)
 - 3.7V 716RPM Micro Coreless DC Motors
 - 3.7V 8520RMP Micro Coreless DC Motors
 - 6V Motor with 75:1 metal gearbox providing 12 kg*cm (1.1 Nm) of torque at 133 rpm
 - Water Pump Motor - DC 12V/370-04PM 
-- 6v 130 sized DC hobby motor 
-*Note: we have a range of wheels and propellers for all our motors or you can 3D deisgn and manufacture your own*
+- 6v 130 sized DC hobby motor
+- Haptic feedback module
+- Vibration motor
+*Note: we have a range of wheels and propellers for all our motors or you can 3D design and manufacture your own*
 
 ## TempeHS Display Modules
-[TempeHS Sensor Catalogue](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue)
 - LCD & OLED Displays
 - LED, LED Array, LED Bar
 - Digit Displays  
+*Read the documentation in the [TempeHS Sensor Catalogue](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue) folder*
 
 ## TempeHS Sensors
 [TempeHS Sensor Catalogue](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue)
@@ -63,6 +63,7 @@
 - Space and Movement
 - Biomedical
 - Electrical
+*Read the documentation in the [TempeHS Sensor Catalogue](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue) folder*
 
 ## TempeHS Shields & Modules
 1. [DFRobot LCD/Button Shield](https://wiki.dfrobot.com/LCD_KeyPad_Shield_For_Arduino_SKU__DFR0009)
@@ -72,6 +73,10 @@
 5. [Sunfounder 4 Motor Drive Shield](http://wiki.sunfounder.cc/index.php?title=L293D_Motor_Driver_Shield) 
 6. [Sparkfun Step Motor Driver](https://github.com/sparkfun/Easy_Driver)
 7. Generic W5500 Ethernet & SD Card Shield - `#include <SPI.h>` & `#include <Ethernet.h>`
+6. [DC to DC Step Down Module]()
+7. [Digital line sensor]()
+8. [5x analogue line sensor]()
+
 *Note we have micro & SD cards for the MP3 & W5500 shields which both can also be used for data logging*
 
 ## Planning & Modelling Mechatronic Tools
@@ -91,6 +96,7 @@
 
 ## TempeHS Electronic Components
 - Nuts and Bolts - M3 M2.5 M2 M1.6
+- Screws - M3 M2.5
 - 1/4W Metal Film Resistor - 10 ohm ~1M Resistance 1%
 - LED - RED GREEN BLUE ORANGE YELLOW CLEAR RGB Infrared
 - Aluminum Electronic Capacitors - 0.1UF-1000UF
