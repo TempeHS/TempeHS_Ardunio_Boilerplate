@@ -1,7 +1,7 @@
 # Empathy Mapping
 As UX professionals, it is our job to advocate on behalf of the user. However, in order to do it, not only must we deeply understand our users, but we must also help our colleagues understand them and prioritize their needs. Empathy maps, widely used throughout agile and design communities, are a powerful, fundamental tool for accomplishing both.
-> Definition: An empathy map is a collaborative visualisation used to articulate what we know about a particular type of user. It externalises knowledge about users to create a shared understanding of user needs, and aid in decision-making.
-Empathy maps should be used throughout any UX process to establish common ground among team members and to understand and prioritize user needs. In user-centered design, empathy maps are best used from the very beginning of the design process.
+> Definition: An empathy map is a collaborative visualisation used to articulate what we know about a particular type of user. It externalises knowledge about users to create a shared understanding of user needs and aid in decision-making.
+Empathy maps should be used throughout any UX process to establish common ground among team members and to understand and prioritize user needs. In user-centred design, empathy maps are best used from the very beginning of the design process.
  
 ![Empathy Map](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Task_Support/EmpathyMap.png)
 
@@ -11,7 +11,7 @@ The **Says** quadrant contains what the user says out loud in an interview or so
 -	“I want something reliable.”
 -	“I don’t understand what to do from here.”
 
-The **Thinks** quadrant captures what the user is thinking throughout the experience. Ask yourself (from the qualitative research gathered): what occupies the user’s thoughts? What matters to the user? It is possible to have the same content in both Says and Thinks. However, pay special attention to what users think, but may not be willing to vocalize. Try to understand why they are reluctant to share — are they unsure, self-conscious, polite, or afraid to tell others something?
+The **Thinks** quadrant captures what the user is thinking throughout the experience. Ask yourself (from the qualitative research gathered): what occupies the user’s thoughts? What matters to the user? It is possible to have the same content in both Says and Thinks. However, pay special attention to what users think but may not be willing to vocalize. Try to understand why they are reluctant to share — are they unsure, self-conscious, polite, or afraid to tell others something?
 -	“This is really annoying.”
 -	“Am I dumb for not understanding this?”
 
