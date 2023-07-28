@@ -19,7 +19,7 @@ Students will design, document, and prototype a Biomedical device specific to a 
 ## Task 4 Support
 - [TinkerCad Circuits](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits)
 - [Ardunio Documentation](https://docs.arduino.cc/)
-
+- [TempeHs Sensor Catalogue](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue)
 
 ## Patient profiles
 1. [David](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Patient_Profiles/David.md)
@@ -28,3 +28,4 @@ Students will design, document, and prototype a Biomedical device specific to a 
 4. [Kaia](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Patient_Profiles/Kaia.md)
 5. [Mohey](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Patient_Profiles/Mohey.md)
 6. [Jabara](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Patient_Profiles/Jabara.md)
+7. [Anna](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Patient_Profiles/Anna.md)
