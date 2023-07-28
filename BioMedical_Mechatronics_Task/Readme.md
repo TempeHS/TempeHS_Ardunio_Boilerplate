@@ -1,11 +1,10 @@
 # Biomedical Mechatronics
-Biomedical Engineering is the application of engineering principles to developing technologies and solving problems in a diverse range of healthcare-related fields. Biomedical Mechatronics is a branch of Biomedical Engineering specifically focused on engineering solutions using mechatronic components including sensors, actuators, and feedback systems managed by processing and control systems.
 
 ## Task Description
-Design Situation:
-Biomedical Engineering is the application of engineering principles to developing technologies and solving problems in a diverse range of healthcare-related fields. Biomedical Mechatronics is a branch of Biomedical Engineering specifically focused on engineering solutions using mechatronic components including sensors, actuators, and feedback systems managed by processing and control systems.
+### Design Situation:
+Biomedical Engineering is the application of engineering principles to developing technologies and solving problems in a diverse range of healthcare-related fields. Biomedical Mechatronics is a branch of Biomedical Engineering specifically focused on engineering solutions using mechatronic components, including sensors, actuators, and feedback systems managed by processing and control systems.
 
-Design Brief:
+### Design Brief:
 Students will design, document, and prototype a Biomedical device specific to a patient’s biomedical needs and personal requirements.
 
 ## Task 3 Support
@@ -19,7 +18,7 @@ Students will design, document, and prototype a Biomedical device specific to a 
 
 ## Task 4 Support
 - [TinkerCad Circuits](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits)
-- (Ardunio Documentation)[https://docs.arduino.cc/]
+- [Ardunio Documentation](https://docs.arduino.cc/)
 
 
 ## Patient profiles
