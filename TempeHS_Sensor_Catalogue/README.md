@@ -18,16 +18,16 @@
 3. [Line Finder v1.1*]() Digital - Sensor that detects a change in colour from black to white or white to black.
 
 ## Physical Input
-1. [Button*]() - Digital - A simple normally off momentary push button.
+1. [Button*]() - Digital - A simple, NO (normally off) momentary push button.
 2. [Rotary potentiometer*]() - Analogue - A rotary dial switch.
 3. [Vibration Sensor]()
-4. [Joystick]() - Analogue - bi-axel joy stick with center button press.
+4. [Joystick]() - Analogue - a bi-axel joystick with centre button press.
 
 ## Space and Movement
 1. [Mini PIR Motion Sensor]()
 2. [Adjustable PIR Motion Sensor]()
 3. [Ultrasonic Ranger*]() - A sensor that utilizes ultrasonic waves to measure distance.
-4. [3 Axis Acceleration Sensor*]() - A sesnor that detects object acceleration on 3 different axis.
+4. [3 Axis Acceleration Sensor*]() - A sensor that detects object acceleration on three different axes.
 5. [Smart Human Presence Sensing Radar Module]()
 
 ## Biomedical
@@ -53,7 +53,7 @@
 4. [I2C Hub (6 Port)](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Electrical/I2C_Hub)
 
 ## Other sensors
-*Note these generic sensors they are common but require research and testing as they are not documented like above sensors.*
+*Note these generic sensors they are common but require research and testing as they are not documented like the above sensors.*
 ![Kit 1](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/TempeHS_Sensor_Catalogue/generic_sensor_kit1.png)
 ![Kit 2](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/TempeHS_Sensor_Catalogue/generic_sensor_kit2.png)
 
