@@ -7,6 +7,15 @@ Biomedical Engineering is the application of engineering principles to developin
 ### Design Brief:
 Students will design, document, and prototype a Biomedical device specific to a patient’s biomedical needs and personal requirements.
 
+## Patient profiles
+1. [David](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Patient_Profiles/David.md)
+2. [Vivian](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Patient_Profiles/Vivian.md)
+3. [Michelle](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Patient_Profiles/Michelle.md)
+4. [Kaia](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Patient_Profiles/Kaia.md)
+5. [Mohey](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Patient_Profiles/Mohey.md)
+6. [Jabara](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Patient_Profiles/Jabara.md)
+7. [Anna](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Patient_Profiles/Anna.md)
+
 ## Task 3 Support
 - [Patient Profiles](#Patient-profiles)
 - Folder structure for [Code Samples](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/Ardunio_Bootcamp)
@@ -20,12 +29,3 @@ Students will design, document, and prototype a Biomedical device specific to a 
 - [TinkerCad Circuits](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits)
 - [Ardunio Documentation](https://docs.arduino.cc/)
 - [TempeHs Sensor Catalogue](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue)
-
-## Patient profiles
-1. [David](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Patient_Profiles/David.md)
-2. [Vivian](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Patient_Profiles/Vivian.md)
-3. [Michelle](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Patient_Profiles/Michelle.md)
-4. [Kaia](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Patient_Profiles/Kaia.md)
-5. [Mohey](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Patient_Profiles/Mohey.md)
-6. [Jabara](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Patient_Profiles/Jabara.md)
-7. [Anna](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/BioMedical_Mechatronics_Task/Patient_Profiles/Anna.md)
