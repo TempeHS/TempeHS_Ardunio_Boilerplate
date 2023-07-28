@@ -6,9 +6,9 @@ What I need is something to help me make those changes.
 If you would like to know more about what I need, please email me michelle@outlook.com
 
 ## Summary of Medical notes
-- 'Silent' myocardial infarction localised to the inferiour aspect of the left ventricular
+- 'Silent' myocardial infarction localised to the inferior aspect of the left ventricular
 - Patient has a history of sedentary behaviour and is resistant to change
 - Workplace stress is considered a key factor
 - Patient requires support in making lifestyles changes
 
-Refering Specialist: Ben Jones - benjamin.jones21@det.nsw.edu.au
+Referring Specialist: Ben Jones - benjamin.jones21@det.nsw.edu.au
