@@ -24,20 +24,20 @@
 
 ## PipeLines
 ### Bootcamp PipeLine
-1. Fork the [TempeHS Arduino Bootcamp](https://github.com/TempeHS/TempeHS_Ardunio_Bootcamp) to a repo called `2023IST-Arduino-Bootcamp.Ben.Jones` (year is the year you graduate and the name is your name)
-2. As we work through the Bootcamp, `COMMIT` every succesful solution you code out and either a picture of the TINKERCAD or a photo of the Ardunio and breadboard
+1. Fork the [TempeHS Arduino Bootcamp](https://github.com/TempeHS/TempeHS_Ardunio_Bootcamp) to a repo called `2023IST-Arduino-Bootcamp.Ben.Jones` (year is the year you graduate, and the name is your name)
+2. As we work through the Bootcamp, `COMMIT` every successful solution you code out and either a picture of the TINKERCAD or a photo of the Arduino and breadboard
 
 ### BoilerPlate PipeLine
 1. Create a new GitHub Repo
 2. Copy the contents of the desired Boilerplate to the root of your folder
-3. Rename the *.ino file to be identical as the Repo name (Arduino IDE will error if synax error)
-4. For any `#INCLUDE` libraries you need copy the contents of the library folder into the root of your folder
+3. Rename the *.ino file to be identical as the Repo name (Arduino IDE will error if syntax error)
+4. For any `#INCLUDE` libraries, you need to copy the contents of the library folder into the root of your folder
 5. Your `COMMIT`s should match your application development and testing
 
 ## TempeHS Actuators
-- 180Deg Micro Servos Max load: plastic geared are 9g & metal geared are 13.4g
+- 180Deg Micro Servos Max load: plastic geared is 9g & metal geared is 13.4g
 - 360Deg continuous Servos
-- Bi axial right angle 1:48 DC geared hobby motor (plastic & metal geared)
+- Bi-axial right angle 1:48 DC geared hobby motor (plastic & metal geared)
 - 3.7V 716RPM Micro Coreless DC Motors
 - 3.7V 8520RMP Micro Coreless DC Motors
 - 6V Motor with 75:1 metal gearbox providing 12 kg*cm (1.1 Nm) of torque at 133 rpm
@@ -45,7 +45,7 @@
 - 6v 130 sized DC hobby motor
 - Haptic feedback module
 - Vibration motor
-*Note: we have a range of wheels and propellers for all our motors or you can 3D design and manufacture your own*
+*Note: we have a range of wheels and propellers for all our motors, or you can 3D design and manufacture your own*
 
 ## TempeHS Display Modules
 - LCD & OLED Displays
@@ -91,7 +91,7 @@
 3. 6x 1.5v AA Battery & holders
 4. 2x 3.7v 18650 LiOion battery & holders
 5. 0-12v wired variable power source
-6. 5v USB breadboad powerhead
+6. 5v USB breadboard powerhead
 
 ## TempeHS Electronic Components
 - Nuts and Bolts - M3 M2.5 M2 M1.6
@@ -108,8 +108,8 @@
 - Light dependant resistors
 - Potentiometer - 10M Linear
 - Speaker - 8Ω 0.25W speaker, Piezo speaker
-- Wire - 30 AWG wraping wire 13x0.12 Hook up wire Conductive tape 22 AWG solid core hook up wire
-*Note: These are the components we on the shelf at school ready for use, not what you are limited to use*
+- Wire - 30 AWG wrapping wire 13x0.12 Hook-up wire Conductive tape 22 AWG solid core hook-up wire
+*Note: These are the components we have on the shelf at school ready for use, not what you are limited to use*
 
 ## TempeHS Mechatronic & Electronic Tools
 ### Handtools
@@ -129,6 +129,6 @@
 ### Bench tools
 - Soldering iron & air filter/extractor
 - Networking testing tool
-- Auto scaling multimeter
+- Auto-scaling multimeter
 - Third hand
 - Silicon mats
