@@ -16,11 +16,15 @@
     1. [Handtools](#handtools)
     2. [Bench tools](#bench-tools)
 
+## Before you begin
+  1. Install [Arduino IDE for Windows](https://drive.google.com/file/d/1ha-3JTMwprRaKoNczq-eIYs7LrxqR_wl/view?usp=drive_link) or [Arduino IDE for MAC](https://drive.google.com/file/d/1hbWTW9vQ1C1OLoO4T3Ryvpsaqmj3jIQ2/view?usp=drive_link)
+  2. Install the drivers (have an Arduino plugged in) [Arduino Drivers for Windows](https://drive.google.com/file/d/1N4CTs-A-gCkxT95O66jF0c6Au0xf9ItV/view?usp=drive_link) or [Arduino Drivers for MAC](https://drive.google.com/file/d/1N8Lot8dtUUb35Mb_IGzqSXzwtOSGLidK/view?usp=drive_link)
+
 ## Core Components
-1. Before you begin, install [Arduino IDE for Windows](https://drive.google.com/file/d/1ha-3JTMwprRaKoNczq-eIYs7LrxqR_wl/view?usp=drive_link) or [Arduino IDE for MAC](https://drive.google.com/file/d/1hbWTW9vQ1C1OLoO4T3Ryvpsaqmj3jIQ2/view?usp=drive_link)
-2. [Core Boilerplate](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/Ardunio_Core_Boilerplate)
-3. [Function Boilerplate](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/Ardunio_Function_Boilerplate)
-4. [OOP boilerplate](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/Ardunio_OOP_Boilerplate)
+1. [Core Boilerplate](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/Ardunio_Core_Boilerplate)
+2. [Function Boilerplate](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/Ardunio_Function_Boilerplate)
+3. [OOP boilerplate](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/Ardunio_OOP_Boilerplate)
+4. [2 Wheel Robot]() 
 
 ## PipeLines
 ### Bootcamp PipeLine
