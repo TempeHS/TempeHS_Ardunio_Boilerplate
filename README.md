@@ -114,6 +114,7 @@
 - Potentiometer - 10M Linear
 - Speaker - 8Ω 0.25W speaker, Piezo speaker
 - Wire - 30 AWG wrapping wire 13x0.12 Hook-up wire Conductive tape 22 AWG solid core hook-up wire
+- Prototyping PCB (cm x cm) - 3x7 4x6 5x7 7x9 9x15 12x18 10x22
 *Note: These are the components we have on the shelf at school ready for use, not what you are limited to use*
 
 ## TempeHS Mechatronic & Electronic Tools
