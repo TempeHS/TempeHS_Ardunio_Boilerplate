@@ -3,7 +3,7 @@ Hi, my name is Anna, I love to game, I love all sorts of games, but mostly, I lo
 
 What I really need is a game controller just for me!
 
-If you would like to know more about what I need, please email me anna@outlook.com
+If you would like to know more about what I need, please email me Anna c/o benjamin.jones21@det.nsw.edu.au
 
 ## Summary of Medical notes
 - DMD gene alteration

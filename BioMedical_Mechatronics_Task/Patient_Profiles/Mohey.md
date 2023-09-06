@@ -3,7 +3,7 @@ I'm Mohey, and I'm pissed! I've been working with my uncle in construction since
 
 I need something to let me know when I'm risking my lungs so I can avoid that work!
 
-If you would like to know more about what I need, please email me mohey@outlook.com
+If you would like to know more about what I need, please email me Mohey c/o benjamin.jones21@det.nsw.edu.au
 
 ## Summary of Medical notes
 - Mid-stage silicosis in right and left lung across all lobes.

@@ -3,7 +3,7 @@ Messi is my Hero; I only want to represent Australia at the Special Olympics. My
 
 I need a football-specific prosthetic so I can run, tackle, and be tackled with the best!
 
-If you would like to know more about what I need, please email me jabara@outlook.com
+If you would like to know more about what I need, please email me Jabara c/o benjamin.jones21@det.nsw.edu.au
 
 ## Summary of Medical notes
 - Long Transfemoral Amputation of the left leg.

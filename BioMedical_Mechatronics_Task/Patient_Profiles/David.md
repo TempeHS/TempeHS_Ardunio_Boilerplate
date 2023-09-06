@@ -3,7 +3,7 @@ Hi, my name is David, and I want to be a chess master! I'm pretty good at chess,
 
 What I need is a sports-specific prosthetic so I can full fill my dream of being a chess master!
 
-If you would like to know more about what I need, please email me david@outlook.com
+If you would like to know more about what I need, please email me David c/o benjamin.jones21@det.nsw.edu.au
 
 ## Summary of Medical notes
 - Mid-section trans-radial amputations of the left arm

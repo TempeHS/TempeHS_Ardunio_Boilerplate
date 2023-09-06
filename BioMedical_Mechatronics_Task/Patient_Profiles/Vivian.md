@@ -3,7 +3,7 @@ My friends call me VV, which is short for Volleyball Viv! Ms Bolton, my volleyba
 
 I need a device to monitor my exertion to start training again!
 
-Like all good Volleyball students, I never truant class to train. So if you need to ask me any questions, please email me vivian@outlook.com.
+Like all good Volleyball students, I never truant class to train. So if you need to ask me any questions, please email me Vivian c/o benjamin.jones21@det.nsw.edu.au
 
 ## Summary of Medical notes
 - Coronary artery defect

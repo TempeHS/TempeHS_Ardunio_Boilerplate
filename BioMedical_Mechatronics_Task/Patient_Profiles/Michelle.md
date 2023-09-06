@@ -3,7 +3,7 @@ My name is Michelle, and I'm a chief comptroller for one of Sydney's top 5 Law f
 
 What I need is something to help me make those changes.
 
-If you would like to know more about what I need, please email me michelle@outlook.com
+If you would like to know more about what I need, please email me Michelle c/o benjamin.jones21@det.nsw.edu.au
 
 ## Summary of Medical notes
 - 'Silent' myocardial infarction localised to the inferior aspect of the left ventricular

@@ -3,7 +3,7 @@ Malo e lelei, my name is Kaia, and I'm from the Tongan Islands. I was born blind
 
 What I want is to get rid of this stupid cane!
 
-If you would like to know more about what I need, please email me kaia@outlook.com
+If you would like to know more about what I need, please email me Kaia c/o benjamin.jones21@det.nsw.edu.au
 
 ## Summary of Medical notes
 - Blindness – visual acuity worse than 3/60
