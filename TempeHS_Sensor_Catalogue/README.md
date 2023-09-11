@@ -63,3 +63,5 @@ Seead Sensors to buy:
 - MP3
 - Dust sensor
 - MQ2 Sensor
+- Time of flight
+- https://wiki.seeedstudio.com/Grove-6-Axis_AccelerometerAndGyroscope/
