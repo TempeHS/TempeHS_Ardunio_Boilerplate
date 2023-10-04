@@ -35,10 +35,10 @@ Right, Forward, Backward, Clockwise, Count Clockwise, Wave).
 3. [Ultrasonic Ranger*](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/Ultrasonic_Ranger) - Digital - A sensor that utilizes ultrasonic waves to measure distances by calculating the time between send and receive trigger.
 4. [3 Axis Acceleration Sensor*](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/3_Axis_Accel_Sensor) - A sensor that detects object acceleration on three different axes.
 5. [Smart Human Presence Sensing Radar Module]()
-6. [Time of Flight Distance Sensor](https://wiki.seeedstudio.com/Grove-Time_of_Flight_Distance_Sensor-VL53L0X/)
-7. [Grove - Thermal Imaging Camera - 16x4 IR Array with 60° FOV](https://github.com/robinvanemden/MLX90621_Arduino_Processing)
-8. [3-Axis Accelerometer & 3-Axis Gyroscope](https://wiki.seeedstudio.com/Grove-6-Axis_AccelerometerAndGyroscope/)
-9. [3-Axis Digital Compass]()
+6. [Time of Flight Distance Sensor](https://wiki.seeedstudio.com/Grove-Time_of_Flight_Distance_Sensor-VL53L0X/) - I2C - A laser-ranging sensor providing accurate distance measurement whatever the target reflectances which can measure absolute distances up to 2m.
+7. [Grove - Thermal Imaging Camera - 16x4 IR Array with 60° FOV](https://www.seeedstudio.com/Grove-Thermal-Imaging-Camera-MLX90621-BAB-16x4-IR-Array-with-60-FOV-p-5266.html) - [Libary](https://github.com/robinvanemden/MLX90621_Arduino_Processing) - I2C - The infrared thermal imaging module has a 16x4 resolution array of temperature sensors, which can detect the temperature of the object with an accuracy and return a low resolution image.
+8. [3-Axis Accelerometer & 3-Axis Gyroscope](https://wiki.seeedstudio.com/Grove-6-Axis_AccelerometerAndGyroscope/) - I2C - An integrated sensor combinating a 3-axis digital accelerometer and 3-axis digital gyroscope.
+9. [3-Axis Digital Compass](https://wiki.seeedstudio.com/Grove-3-Axis_Digitial_Compass_v2.0/) - I2C - A digital compass sensor measures the magnatic field in three perpendicular axes.
 
 ## Biomedical
 1. [Ear-clip Heart Rate Sensor]()
