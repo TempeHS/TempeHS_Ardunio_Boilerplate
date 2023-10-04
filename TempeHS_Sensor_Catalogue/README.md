@@ -17,7 +17,7 @@
 
 ## Colour and Light Sensors
 1. [Colour Sensor](https://wiki.seeedstudio.com/Grove-I2C_Color_Sensor/) - I2C - Reads RGB data from a sample
-2. [Light Sensor*](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/Light_Sensor) - A sensor that detects surrounding light intensity.
+2. [Light Sensor*](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/Light_Sensor) - Analog - A sensor that detects surrounding light intensity.
 3. [Line Finder v1.1*](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/Line_Finder_v1.1) - Digital - Sensor that detects a change in colour from black to white or white to black of a close range 1-50mm.
 
 ## Physical Input
@@ -33,8 +33,8 @@ Right, Forward, Backward, Clockwise, Count Clockwise, Wave).
 1. [Mini PIR Motion Sensor](https://wiki.seeedstudio.com/Grove-PIR_Motion_Sensor/) - Digital - A small sensor that detects movement at a distance of 0 - 2m with adjustable sensitivity for trigger.
 2. [Adjustable PIR Motion Sensor](https://wiki.seeedstudio.com/Grove-Adjustable_PIR_Motion_Sensor/) - Digital - A sensor that detects movement at a distance of 0-3m with adjustable time intervals for trigger.
 3. [Ultrasonic Ranger*](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/Ultrasonic_Ranger) - Digital - A sensor that utilizes ultrasonic waves to measure distances by calculating the time between send and receive trigger.
-4. [3 Axis Acceleration Sensor*](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/3_Axis_Accel_Sensor) - A sensor that detects object acceleration on three different axes.
-5. [Smart Human Presence Sensing Radar Module]()
+4. [3 Axis Acceleration Sensor*](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/3_Axis_Accel_Sensor) - I2C - A sensor that detects object acceleration on three different axes.
+5. [Smart Human Presence Sensing Radar Module]() - Digital - 
 6. [Time of Flight Distance Sensor](https://wiki.seeedstudio.com/Grove-Time_of_Flight_Distance_Sensor-VL53L0X/) - I2C - A laser-ranging sensor providing accurate distance measurement whatever the target reflectances which can measure absolute distances up to 2m.
 7. [Grove - Thermal Imaging Camera - 16x4 IR Array with 60° FOV](https://www.seeedstudio.com/Grove-Thermal-Imaging-Camera-MLX90621-BAB-16x4-IR-Array-with-60-FOV-p-5266.html) - [Libary](https://github.com/robinvanemden/MLX90621_Arduino_Processing) - I2C - The infrared thermal imaging module has a 16x4 resolution array of temperature sensors, which can detect the temperature of the object with an accuracy and return a low resolution image.
 8. [3-Axis Accelerometer & 3-Axis Gyroscope](https://wiki.seeedstudio.com/Grove-6-Axis_AccelerometerAndGyroscope/) - I2C - An integrated sensor combinating a 3-axis digital accelerometer and 3-axis digital gyroscope.
@@ -62,14 +62,14 @@ Right, Forward, Backward, Clockwise, Count Clockwise, Wave).
 13. [Servo Motor](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/Servo_Motor) - Digital Pulse - 
 
 ## Electrical
-1. [Relay]()
-2. [Screw Terminal](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Electrical/Screw_Termal)
+1. [Relay](https://wiki.seeedstudio.com/Grove-Relay/) - Digital - A digital NO (normally-open) switch that can control circuit of high voltage with low voltage.
+2. [Screw Terminal](https://wiki.seeedstudio.com/Grove-Screw_Terminal/)
 3. [Grove Female Header 90deg](https://www.seeedstudio.com/Grove-Universal-4-pin-connector-90-10-PCs.html)
 4. [Grove Female Header](https://www.seeedstudio.com/Grove-Universal-4-pin-connector.html)
 5. [I2C Hub (6 Port)](https://www.seeedstudio.com/Grove-I2C-Hub-6-Port-p-4349.html)
-6. [Electromagnet](https://wiki.seeedstudio.com/Grove-Electromagnet/)
-7. [Magnetic Switch](https://wiki.seeedstudio.com/Grove-Magnetic_Switch/)
-8. [Electricity Sensor](https://wiki.seeedstudio.com/Grove-Electricity_Sensor/)
+6. [Electromagnet](https://wiki.seeedstudio.com/Grove-Electromagnet/) - Digital - A electromagnet that when activated can hold upto 1kg.
+7. [Magnetic Switch](https://wiki.seeedstudio.com/Grove-Magnetic_Switch/) - Digital - A double-ended switch that can be actuated with an electromagnet, a permanent magnet or a combination of both.
+8. [Electricity Sensor](https://wiki.seeedstudio.com/Grove-Electricity_Sensor/) - Analog - A sensor that measures an alternating current up to 5A.
 
 ## Other sensors
 *Note these generic sensors they are common but require research and testing as they are not documented like the above sensors.*
