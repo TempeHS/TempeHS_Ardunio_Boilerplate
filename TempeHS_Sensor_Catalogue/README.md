@@ -40,11 +40,11 @@
 9. [3-Axis Digital Compass](https://wiki.seeedstudio.com/Grove-3-Axis_Digitial_Compass_v2.0/) - **I2C** - A digital compass sensor measures the magnatic field in three perpendicular axes.
 
 ## Biomedical
-1. [Ear-clip Heart Rate Sensor]()
-2. [Finger Strap Hear Rate Sensor]()
-3. [GSR (Galvanic Skin Response) Sensor]()
-4. [Step Counter](https://wiki.seeedstudio.com/Grove-Step_Counter-BMA456/)
-5. [Alcohol Sensor](https://wiki.seeedstudio.com/Grove-Alcohol_Sensor/)
+1. [Ear-clip Heart Rate Sensor](https://wiki.seeedstudio.com/Grove-Ear-clip_Heart_Rate_Sensor/) - **Digital Pulse** - The Heart Rate Ear clip kit contains a ear clip and a receiver module which returns a HR measured in BPM, measures >=30bpm.
+2. [Finger or Wrist Strap Hear Rate Sensor](https://wiki.seeedstudio.com/Grove-Finger-clip_Heart_Rate_Sensor/) - **I2C** - This module is based on optical technology which measures the variation human blood movement in the vessel and returns a HR measured in BPM.
+3. [GSR (Galvanic Skin Response) Sensor]() - **Analog** - GSR Sensor stands for galvanic skin response and it is a method of measuring the electrical conductance of the skin. It can be used to reflect human emotional activity.
+4. [Step Counter](https://wiki.seeedstudio.com/Grove-Step_Counter-BMA456/) - **I2C** - A small, triaxial, low-g high performance accelerations module thats works as a portable pedometer.
+5. [Alcohol Sensor](https://wiki.seeedstudio.com/Grove-Alcohol_Sensor/) - **Analog** - Alcohol Sensor which has good sensitivity and fast response to alcohol. It is suitable for making Breathalyzer. This sensor outputs a voltage inversely proportional to the alcohol concentration in air.
 
 ## Output
 1. [Built-in LED](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/Red_LED) - **Digital** - Single micro LED connected to Pin 13
@@ -58,7 +58,7 @@
 10. [Red LED Matrix w/Driver](https://wiki.seeedstudio.com/Grove-Red_LED_Matrix_w_Driver/) - **I2C** - Red 8x8 LED matrix
 11. [Speaker](https://wiki.seeedstudio.com/Grove-Speaker/) - **Digital Pulse** - The loudness can be adjusted by the on-board potentiometer. With different input frequencies, the loud-speaker generates different tones.
 12. [RGB LED Strip Waterproof - 30 LED/m](https://www.seeedstudio.com/Grove-WS2813-RGB-LED-Strip-Waterproof-30-LED-m-1m.html) & [LED Strip Driver](https://wiki.seeedstudio.com/Grove-LED_Strip_Driver/) **PWM or Digital** - A RGB LED strip and driver.
-13. [Servo Motor](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/Servo_Motor) - **Digital Pulse** - 180 9g servo motor.
+13. [Servo Motor](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/Servo_Motor) - **Digital Pulse** - 180° 9g servo motor.
 
 ## Electrical
 1. [Relay](https://wiki.seeedstudio.com/Grove-Relay/) - **Digital** - A digital NO (normally-open) switch that can control circuit of high voltage with low voltage.
@@ -80,3 +80,4 @@ Seead Grove Sensors to buy when back in stock:
 - https://www.seeedstudio.com/Grove-Collision-Sensor.html
 - https://www.seeedstudio.com/Grove-MP3-V3-p-4297.html
 - https://www.seeedstudio.com/Grove-Hall-Sensor-p-965.html
+- https://www.seeedstudio.com/Grove-Chest-Strap-Heart-Rate-Sensor-p-1115.html
