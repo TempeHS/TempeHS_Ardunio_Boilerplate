@@ -65,7 +65,7 @@
 2. [Screw Terminal](https://wiki.seeedstudio.com/Grove-Screw_Terminal/) - Screw terminal connector for SEEED Grove common cable.
 3. [Grove Female Header 90deg](https://www.seeedstudio.com/Grove-Universal-4-pin-connector-90-10-PCs.html) - Header for SEEED Grove common cable.
 4. [Grove Female Header](https://www.seeedstudio.com/Grove-Universal-4-pin-connector.html) - Header for SEEED Grove common cable.
-5. [I2C Hub (6 Port)](https://www.seeedstudio.com/Grove-I2C-Hub-6-Port-p-4349.html) - Daisy chain for additional I2C ports
+5. [I2C Hub (6 Port)](https://www.seeedstudio.com/Grove-I2C-Hub-6-Port-p-4349.html) - **I2C** - Daisy chain for additional I2C ports
 6. [Electromagnet](https://wiki.seeedstudio.com/Grove-Electromagnet/) - **Digital** - A electromagnet that when activated can hold upto 1kg.
 7. [Magnetic Switch](https://wiki.seeedstudio.com/Grove-Magnetic_Switch/) - **Digital** - A double-ended switch that can be actuated with an electromagnet, a permanent magnet or a combination of both.
 8. [Electricity Sensor](https://wiki.seeedstudio.com/Grove-Electricity_Sensor/) - **Analog** - A sensor that measures an alternating current up to 5A.
