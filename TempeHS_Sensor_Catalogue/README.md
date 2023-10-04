@@ -22,11 +22,10 @@
 
 ## Physical Input
 1. [Button*](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/Button) - **Digital** - A simple, NO (normally off) momentary push button.
-2. [Rotary potentiometer*](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/Rotary_Pot) - Analogue - A rotary dial switch.
+2. [Rotary potentiometer*](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/Rotary_Pot) - **Analog** - A rotary dial switch.
 3. [Vibration Sensor](https://wiki.seeedstudio.com/Grove-Vibration_Sensor_SW-420/) - **Digital** - A high sensitivity non-directional vibration sensor, perfect for sensing vibration or tilt.
-4. [Joystick](https://arduinogetstarted.com/tutorials/arduino-joystick) - Analogue - A bi-axel joystick with centre button press.
-5. [Gesture Sensor](https://wiki.seeedstudio.com/Grove-Gesture_v1.0/) - **I2C** - A sensor that can detect 9 Basic gestures (Up, Down, Left
-Right, Forward, Backward, Clockwise, Count Clockwise, Wave).
+4. [Joystick](https://arduinogetstarted.com/tutorials/arduino-joystick) - **Analog** - A bi-axel joystick with centre button press.
+5. [Gesture Sensor](https://wiki.seeedstudio.com/Grove-Gesture_v1.0/) - **I2C** - A sensor that can detect 9 Basic gestures (Up, Down, Left, Right, Forward, Backward, Clockwise, Count Clockwise & Wave).
 6. [12 Chanel Touch Sensor](https://wiki.seeedstudio.com/Grove-12-Key-Capacitive-I2C-Touch-Sensor-V3-MPR121/) - **I2C** - A multichannel proximity capacitive touch sensor. It's a 3-in-1 module with the following features: Capacitance Sensing, Touch Sensing, and Proximity Sensing.
 
 ## Space and Movement
@@ -53,13 +52,13 @@ Right, Forward, Backward, Clockwise, Count Clockwise, Wave).
 4. [LED Bar V2.0](https://wiki.seeedstudio.com/Grove-LED_Bar/) - **Digital Pulse** - A 10 segment LED gauge bar which can be used as a gradient display.
 5. [Vibration motor](https://wiki.seeedstudio.com/Grove-Vibration_Motor/) - **Digital** - A mini vibration motor suitable as a non-audible indicator when the input is HIGH, the motor will vibrate.
 6. [16x2 LCD RGB Backlight](https://wiki.seeedstudio.com/Grove-LCD_RGB_Backlight/) - **I2C** - A full-color backlight 16x2 LCD display.
-7. [LED*](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/Red_LED) - PWM or Digital - A single LED module
+7. [LED*](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/Red_LED) - **PWM or Digital** - A single LED module
 8. [Buzzer*](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/Buzzer) - **Digital Pulse** - A small piezo buzzer for outputting simple sounds
 9. [0.96" OLED Display"*](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/0.96_OLED_Display) - **I2C** - A 128×64 dot resolution screen with a compact design for low power consumption.
 10. [Red LED Matrix w/Driver](https://wiki.seeedstudio.com/Grove-Red_LED_Matrix_w_Driver/) - **I2C** - Red 8x8 LED matrix
 11. [Speaker](https://wiki.seeedstudio.com/Grove-Speaker/) - **Digital Pulse** - The loudness can be adjusted by the on-board potentiometer. With different input frequencies, the loud-speaker generates different tones.
-12. [RGB LED Strip Waterproof - 30 LED/m](https://www.seeedstudio.com/Grove-WS2813-RGB-LED-Strip-Waterproof-30-LED-m-1m.html) & [LED Strip Driver](https://wiki.seeedstudio.com/Grove-LED_Strip_Driver/)
-13. [Servo Motor](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/Servo_Motor) - **Digital Pulse** - 
+12. [RGB LED Strip Waterproof - 30 LED/m](https://www.seeedstudio.com/Grove-WS2813-RGB-LED-Strip-Waterproof-30-LED-m-1m.html) & [LED Strip Driver](https://wiki.seeedstudio.com/Grove-LED_Strip_Driver/) **PWM or Digital** - A RGB LED strip and driver.
+13. [Servo Motor](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/Servo_Motor) - **Digital Pulse** - 180 9g servo motor.
 
 ## Electrical
 1. [Relay](https://wiki.seeedstudio.com/Grove-Relay/) - **Digital** - A digital NO (normally-open) switch that can control circuit of high voltage with low voltage.
