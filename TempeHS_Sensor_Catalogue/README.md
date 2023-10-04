@@ -49,10 +49,10 @@ Right, Forward, Backward, Clockwise, Count Clockwise, Wave).
 
 ## Output
 1. [Built-in LED](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/Red_LED) - Digital - Single micro LED connected to Pin 13
-3. [4-Digit Display]()
-4. [LED Bar V2.0]()
-5. [Vibration motor](https://wiki.seeedstudio.com/Grove-Vibration_Motor/)
-6. [LCD RGB Backlight]()
+3. [4-Digit Display](https://wiki.seeedstudio.com/Grove-4-Digit_Display/) - Digital Pulse - A 4-Digit Display module with brightness control.
+4. [LED Bar V2.0](https://wiki.seeedstudio.com/Grove-LED_Bar/) - Digital Pulse - A 10 segment LED gauge bar which can be used as a gradient display.
+5. [Vibration motor](https://wiki.seeedstudio.com/Grove-Vibration_Motor/) - Digital - A mini vibration motor suitable as a non-audible indicator when the input is HIGH, the motor will vibrate.
+6. [16x2 LCD RGB Backlight](https://wiki.seeedstudio.com/Grove-LCD_RGB_Backlight/) - I2C - A full-color backlight 16x2 LCD display.
 7. [LED*](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/Red_LED) - PWM or Digital - A single LED module
 8. [Buzzer*](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/Buzzer) - Digital Pulse - A small piezo buzzer for outputting simple sounds
 9. [0.96" OLED Display"*](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/0.96_OLED_Display) - I2C - A 128×64 dot resolution screen with a compact design for low power consumption.
@@ -63,10 +63,10 @@ Right, Forward, Backward, Clockwise, Count Clockwise, Wave).
 
 ## Electrical
 1. [Relay](https://wiki.seeedstudio.com/Grove-Relay/) - Digital - A digital NO (normally-open) switch that can control circuit of high voltage with low voltage.
-2. [Screw Terminal](https://wiki.seeedstudio.com/Grove-Screw_Terminal/)
-3. [Grove Female Header 90deg](https://www.seeedstudio.com/Grove-Universal-4-pin-connector-90-10-PCs.html)
-4. [Grove Female Header](https://www.seeedstudio.com/Grove-Universal-4-pin-connector.html)
-5. [I2C Hub (6 Port)](https://www.seeedstudio.com/Grove-I2C-Hub-6-Port-p-4349.html)
+2. [Screw Terminal](https://wiki.seeedstudio.com/Grove-Screw_Terminal/) - Screw terminal connector for SEEED Grove common cable.
+3. [Grove Female Header 90deg](https://www.seeedstudio.com/Grove-Universal-4-pin-connector-90-10-PCs.html) - Header for SEEED Grove common cable.
+4. [Grove Female Header](https://www.seeedstudio.com/Grove-Universal-4-pin-connector.html) - Header for SEEED Grove common cable.
+5. [I2C Hub (6 Port)](https://www.seeedstudio.com/Grove-I2C-Hub-6-Port-p-4349.html) - Daisy chain additional I2C ports
 6. [Electromagnet](https://wiki.seeedstudio.com/Grove-Electromagnet/) - Digital - A electromagnet that when activated can hold upto 1kg.
 7. [Magnetic Switch](https://wiki.seeedstudio.com/Grove-Magnetic_Switch/) - Digital - A double-ended switch that can be actuated with an electromagnet, a permanent magnet or a combination of both.
 8. [Electricity Sensor](https://wiki.seeedstudio.com/Grove-Electricity_Sensor/) - Analog - A sensor that measures an alternating current up to 5A.
