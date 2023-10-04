@@ -33,7 +33,7 @@ Right, Forward, Backward, Clockwise, Count Clockwise, Wave).
 1. [Mini PIR Motion Sensor](https://wiki.seeedstudio.com/Grove-PIR_Motion_Sensor/) - Digital - A small sensor that detects movement at a distance of 0 - 2m with adjustable sensitivity for trigger.
 2. [Adjustable PIR Motion Sensor](https://wiki.seeedstudio.com/Grove-Adjustable_PIR_Motion_Sensor/) - Digital - A sensor that detects movement at a distance of 0-3m with adjustable time intervals for trigger.
 3. [Ultrasonic Ranger*](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor%20Kit/Ultrasonic_Ranger) - Digital - A sensor that utilizes ultrasonic waves to measure distances by calculating the time between send and receive trigger.
-4. [3 Axis Acceleration Sensor*]() - A sensor that detects object acceleration on three different axes.
+4. [3 Axis Acceleration Sensor*](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor%20Kit/3_Axis_Accel_Sensor) - A sensor that detects object acceleration on three different axes.
 5. [Smart Human Presence Sensing Radar Module]()
 6. [Time of Flight Distance Sensor](https://wiki.seeedstudio.com/Grove-Time_of_Flight_Distance_Sensor-VL53L0X/)
 7. [Grove - Thermal Imaging Camera - 16x4 IR Array with 60° FOV](https://github.com/robinvanemden/MLX90621_Arduino_Processing)
@@ -55,7 +55,7 @@ Right, Forward, Backward, Clockwise, Count Clockwise, Wave).
 6. [LCD RGB Backlight]()
 7. [LED*]() - PWM or Digital - A single LED module
 8. [Buzzer*]() - Digital Pulse - A small piezo buzzer for outputting simple sounds
-9. [0.96" OLED Display"*]() - I2C - A 128×64 dot resolution screen with a compact design for low power consumption.
+9. [0.96" OLED Display"*](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor%20Kit/0.96_OLED_Display) - I2C - A 128×64 dot resolution screen with a compact design for low power consumption.
 10. [Red LED Matrix w/Driver](https://wiki.seeedstudio.com/Grove-Red_LED_Matrix_w_Driver/) - I2C - Red 8x8 LED matrix
 11. [Speaker](https://wiki.seeedstudio.com/Grove-Speaker/)
 12. [RGB LED Strip Waterproof - 30 LED/m](https://www.seeedstudio.com/Grove-WS2813-RGB-LED-Strip-Waterproof-30-LED-m-1m.html) & [LED Strip Driver](https://wiki.seeedstudio.com/Grove-LED_Strip_Driver/)
