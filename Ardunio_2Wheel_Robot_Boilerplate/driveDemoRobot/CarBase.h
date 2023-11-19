@@ -6,12 +6,12 @@
   email: phil.legge@det.nsw.edu.au
 */
 
-#ifndef CARBASE_H
-#define CARBASE_H
+#ifndef AIDriver_H
+#define AIDriver_H
 
 #include <L298N.h>
 
-	class CarBase{
+	class AIDriver{
 		public:
 		  const int MAX_SPEED = 255; 
 		  const int THREE_QUARTER_SPEED = 138; 
@@ -21,7 +21,7 @@
 		  int rightSignal, rightIn1, rightIn2; 
 		  int leftSignal, leftIn1, leftIn2; 
 		  
-		  CarBase();
+		  AIDriver();
 		  
 		  void driveForward(unsigned short rightWheel, unsigned short leftWheel);
 		  void driveBackward(unsigned short rightWheel, unsigned short leftWheel);

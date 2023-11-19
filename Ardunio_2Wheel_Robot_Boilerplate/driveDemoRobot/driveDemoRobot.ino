@@ -6,7 +6,7 @@
 	email: phil.legge@det.nsw.edu.au
 */
 
-#include "CarBase.h"
+#include "AIDriver.h"
 
 //create variables one CarBase object and a boolean value for selection
 	CarBase *myBase;
