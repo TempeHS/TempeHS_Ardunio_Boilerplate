@@ -11,29 +11,18 @@ Ultrasonic::Ultrasonic(uint8_t trigPin, uint8_t echoPin, unsigned long timeOut) 
 }
 
 unsigned int Ultrasonic::timing() {
-  if (threePins)
-    pinMode(trig, OUTPUT);
-
   digitalWrite(trig, LOW);
   delayMicroseconds(2);
   digitalWrite(trig, HIGH);
   delayMicroseconds(10);
   digitalWrite(trig, LOW);
-  delay(30);
-
-  if (threePins)
-    pinMode(trig, INPUT);
-  
   previousMicros = micros();
   while(!digitalRead(echo) && (micros() - previousMicros) <= timeout); // wait for the echo pin HIGH or timeout
   previousMicros = micros();
   while(digitalRead(echo)  && (micros() - previousMicros) <= timeout); // wait for the echo pin LOW or timeout
-
   return micros() - previousMicros; // duration
 }
 
-unsigned int Ultrasonic::read(uint8_t) {
-  return timing() / CM / 2;  //distance by divisor
+unsigned int Ultrasonic::read() {
+  return timing() / 2.8 / 2;  //distance by divisor
 }
-
-
