@@ -1,5 +1,6 @@
 #ifndef Ultrasonic_h
 #define Ultrasonic_h
+
 class Ultrasonic {
   public:
     Ultrasonic(uint8_t sigPin) : Ultrasonic(sigPin, sigPin) {};
@@ -11,7 +12,6 @@ class Ultrasonic {
   private:
     uint8_t trig;
     uint8_t echo;
-    boolean threePins = false;
     unsigned long previousMicros;
     unsigned long timeout;
     unsigned int timing();

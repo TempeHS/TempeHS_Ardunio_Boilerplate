@@ -4,7 +4,6 @@
 Ultrasonic::Ultrasonic(uint8_t trigPin, uint8_t echoPin, unsigned long timeOut) {
   trig = trigPin;
   echo = echoPin;
-  threePins = trig == echo ? true : false;
   pinMode(trig, OUTPUT);
   pinMode(echo, INPUT);
   timeout = timeOut;
