@@ -1,0 +1,21 @@
+
+
+AA batteries: Students loaned AA rechargeable batteries
+Double-sided tape: https://www.bunnings.com.au/scotch-mount-2-54-x-1016-cm-extreme-double-sided-mounting-tape-mega-roll_p3961939
+3mm Plywood:https://www.bunnings.com.au/2440-x-1220mm-3mm-plywood-pine-premium-bc-grade_p0340267
+
+Student hand tools
+- Scissors
+- 2.0mm Slotted screwdriver
+
+Preparation tools
+- Stanley knife or Dremel with cutting blade
+- Wire strippers
+- Soldering iron
+
+Teacher preparation
+- Cutter VIN jumper on motor shield (use Stanley knife or Dremel)
+- Cut 9v snap and solder cables to battery pack cables (red to red & black to black)
+Note: Teacher preparation steps are not included in the student documentation. At TempeHS Software Engineering students do these steps for year 8 to allow more time to focus on algorithms and solving challenges.  
+
+
