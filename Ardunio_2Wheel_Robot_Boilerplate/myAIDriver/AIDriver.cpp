@@ -24,27 +24,27 @@ void AIDriver::brake(){
 void AIDriver::driveForward(unsigned short rightWheel, unsigned short leftWheel){
   motorRight->setSpeed(rightWheel);
   motorLeft->setSpeed(leftWheel);
-  motorRight->backward();
+  motorRight->forward();
   motorLeft->forward();
 }
 
 void AIDriver::driveBackward(unsigned short rightWheel, unsigned short leftWheel){
   motorRight->setSpeed(rightWheel);
   motorLeft->setSpeed(leftWheel);
-  motorRight->forward();
+  motorRight->backward();
   motorLeft->backward();
 }
 
 void AIDriver::rotateRight(unsigned short turnSpeed){
   motorRight->setSpeed(turnSpeed);
   motorLeft->setSpeed(turnSpeed);
-  motorRight->forward();
+  motorRight->backward();
   motorLeft->forward();
 }
 
 void AIDriver::rotateLeft(unsigned short turnSpeed){
   motorRight->setSpeed(turnSpeed);
   motorLeft->setSpeed(turnSpeed);
-  motorRight->backward();
+  motorRight->forward();
   motorLeft->backward();
 }
