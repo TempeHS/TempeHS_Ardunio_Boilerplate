@@ -1,3 +1,12 @@
+/*********************************************
+Chall3nge 3:
+Explain the challange and how you solved it:
+
+
+Written by: 
+Date: 
+
+*********************************************/
 #include "AIDriver.h"
 	
 	void setup(){   // sets up once as the program starts    

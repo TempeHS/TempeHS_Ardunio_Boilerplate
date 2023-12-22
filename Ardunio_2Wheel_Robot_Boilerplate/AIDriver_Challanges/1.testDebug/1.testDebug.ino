@@ -1,3 +1,10 @@
+/*********************************************
+Test & debug code
+Written by: 
+Date: 
+
+*********************************************/
+
 #include "AIDriver.h"
 	
 	void setup(){   // sets up once as the program starts    
