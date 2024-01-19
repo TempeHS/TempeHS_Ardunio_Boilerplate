@@ -43,11 +43,11 @@
 Note: Teacher preparation steps are not included in the student documentation. At TempeHS Software Engineering students do these steps for year 8 to allow more time to focus on algorithms and solving challenges.  
 
 ## Optional Components
-1. Micro Servo Motor- mount ultrasonic sensor
+1. Micro Servo Motor - mount ultrasonic sensor
 2. Micro Switch - collision detection
 3. Bluetooth Module - remote control your robot
 4. Buzzer - Feedback
 5. 5 Channel Analogue Line Finder or 1 or more Digital Line Finder
 6. I2C LCD Screen
 7. Colour sensor
-8. Temperature humity sensor
+8. Temperature humity sensor (improve ranger accuracy)
