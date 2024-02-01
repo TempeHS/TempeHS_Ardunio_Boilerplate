@@ -76,8 +76,5 @@
 ![Kit 2](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/TempeHS_Sensor_Catalogue/generic_sensor_kit2.png)
 
 Seead Grove Sensors to buy when back in stock:
-- https://www.seeedstudio.com/Grove-Haptic-Motor-p-2546.html
 - https://www.seeedstudio.com/Grove-Collision-Sensor.html
-- https://www.seeedstudio.com/Grove-MP3-V3-p-4297.html
-- https://www.seeedstudio.com/Grove-Hall-Sensor-p-965.html
 - https://www.seeedstudio.com/Grove-Chest-Strap-Heart-Rate-Sensor-p-1115.html
