@@ -77,8 +77,11 @@
 6. [Sparkfun Step Motor Driver](https://github.com/sparkfun/Easy_Driver)
 7. Generic W5500 Ethernet & SD Card Shield - `#include <SPI.h>` & `#include <Ethernet.h>`
 6. [DC to DC Step Down Module]()
-7. [Digital line sensor]()
-8. [5x analogue line sensor]()
+7. [Digital Line Sensor]()
+8. [5x Analogue Line Sensor]()
+9. [TZT TCS34725 Color Sensor Recognition Module]()
+10. [DHT22 Temp & Humidity Sensor]()
+11. [HC-SR04 Ultrasonic Sensor]()
 
 *Note we have micro & SD cards for the MP3 & W5500 shields which both can also be used for data logging*
 
@@ -91,9 +94,9 @@
 
 ## TempeHS Power Supply
 1. 9v Battery & holders
-2. 4x 1.5v AA Battery & holders
-3. 6x 1.5v AA Battery & holders
-4. 2x 3.7v 18650 LiOion battery & holders
+2. 1.5v AA Battery & 1x, 2x, 4x, 6x, 8x holders
+3. 1.5v AAA Battery & 1x, 2x, 4x, 6x, 8x holders
+4. 3.7v 18650 Polymer Lithium Ion Battery (LiPo) & 2x holders
 5. 0-12v wired variable power source
 6. 5v USB breadboard powerhead
 
