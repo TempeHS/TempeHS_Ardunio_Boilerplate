@@ -11,6 +11,7 @@
 8. 9v Battery Snap
 
 ## Support Documents
-1. 
-2. 
-3. 
+These documents and sample code will help you see how the shield and microcontroller is used in a non OOP way.
+1. [Non OOP Code Samples](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/Arduino_MAAS_Tinkershield_1st_Robot/tas-s4-s5-coding-samples.zip)
+2. [Non OOP Student Folio](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/Arduino_MAAS_Tinkershield_1st_Robot/tas-s4-s5-crack-the-code-student-folio.docx)
+3. [Non OOP Teacher Folio](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/Arduino_MAAS_Tinkershield_1st_Robot/tas-s4-s5-crack-the-code-teacher-folio.docx)
