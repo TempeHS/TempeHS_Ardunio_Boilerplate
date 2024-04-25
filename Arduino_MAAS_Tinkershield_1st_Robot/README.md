@@ -3,7 +3,7 @@
 ## Core Components
 1. MAAS Tinkershield
 2. Arduino Uno
-3. [I2C LCD Screen]()
+3. [IIC LCD Screen](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Examples/IIC_1602_LCD)
 4. 9g Micro Servo
 5. Servo Clamp Gripper
 6. Dupont to Aligator Clip Cables
