@@ -7,7 +7,7 @@
 *	Object: Measure Sensor Data of AM2302-Sensor
 *
 */
-#include <AM2302-Sensor.h>
+#include "AM2302-Sensor.h"
 
 /**
  * @brief Construct a new am2302::am2302 sensor::am2302 sensor object
