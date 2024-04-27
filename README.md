@@ -44,6 +44,8 @@
 ## TempeHS Actuators
 - 180Deg Micro Servos Max load: plastic geared is 9g & metal geared is 13.4g
 - 360Deg continuous Servos
+  - Parralax Continuos Servo
+  - ??? Continuos Servo
 - Bi-axial right angle 1:48 DC geared hobby motor (plastic & metal geared)
 - 3.7V 716RPM Micro Coreless DC Motors
 - 3.7V 8520RMP Micro Coreless DC Motors
@@ -79,12 +81,11 @@
 5. [Sunfounder 4 Motor Drive Shield](http://wiki.sunfounder.cc/index.php?title=L293D_Motor_Driver_Shield) 
 6. [Sparkfun Step Motor Driver](https://github.com/sparkfun/Easy_Driver)
 7. Generic W5500 Ethernet & SD Card Shield - `#include <SPI.h>` & `#include <Ethernet.h>`
-6. [DC to DC Step Down Module]()
-7. [Digital Line Sensor]()
-8. [5x Analogue Line Sensor]()
-9. [TZT TCS34725 Color Sensor Recognition Module]()
-10. [DHT22 Temp & Humidity Sensor]()
-11. [HC-SR04 Ultrasonic Sensor]()
+8. [Digital Line Sensor]()
+9. [5x Analogue Line Sensor]()
+10. [TZT TCS34725 Color Sensor Recognition Module](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Examples/IIC_TCS34725_RGB_Color_Sensor)
+11. [DHT22 Temp & Humidity Sensor](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Examples/DHT22_Temp_and_Humid_Sensor)
+12. [HC-SR04 Ultrasonic Sensor]()
 
 *Note we have micro & SD cards for the MP3 & W5500 shields which both can also be used for data logging*
 
@@ -102,6 +103,27 @@
 4. 3.7v 18650 Polymer Lithium Ion Battery (LiPo) & 2x holders
 5. 0-12v wired variable power source
 6. 5v USB breadboard powerhead
+
+## TempeHS Power Conditioning
+1. DC to DC Step Down Module (Only suitable for large shifts in voltage and amperage)
+2. Diodes
+    1. 1N4934 1A 100V Rectifier Diode 0.7voltage drop
+    2. 1N5404 3A 100V Rectifier Diode 0.7voltage drop
+    3. 1N5819 1A 40V Schottky Rectifier Diode ~0.5voltage drop
+    4. 1N5822 3A 40V Schottky Rectifier Diode ~0.5voltage drop     
+
+***Notes:***
+1. *Place in series for additive effect to voltage drop*
+2. *Place in parralel for additive effect to amperage flow*
+
+## TempeHS Power Over Current Control
+1. 5x20 PCB Fuse Holder
+2. 5x20 ceramic fast blow fuses:
+    1. 1A
+    2. 1.5A
+    3. 2A
+    4. 2.5A
+    5. 3A
 
 ## TempeHS Electronic Components
 - Nuts and Bolts - M3 M2.5 M2 M1.6
@@ -126,8 +148,8 @@
 ## TempeHS Mechatronic & Electronic Tools
 ### Handtools
 - Spanners
-- P1 phillips screwdriver
-- 3mm flathead screwdriver
+- P1 & P0 phillips screwdriver
+- 3mm & 2mm flathead screwdriver
 - Precision Tweezers
 - Wire strippers
 - IC Chip Extractor
