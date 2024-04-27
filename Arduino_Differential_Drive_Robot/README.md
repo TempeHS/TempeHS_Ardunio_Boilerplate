@@ -1,7 +1,7 @@
 # Arduino Differential Drive Robot Boilerplate
 
 ## Core Components
-1. 2x Continuous Servo Motors
+1. 2x [Continuous Servo Motors](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Examples/ContinuosServo)
 2. 2x Servo Wheels
 3. 1x Omni-Wheel
 4. Arduino Uno
@@ -16,6 +16,6 @@
 ## Optional Components
 1. Micro Servo Motor - mount ultrasonic sensor
 2. Micro Switch - collision detection
-3. I2C LCD Screen
-4. Colour sensor
-5. Temperature humity sensor (improve ranger accuracy)
+3. [IIC LCD Screen](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Examples/IIC_1602_LCD)
+4. [IIC TZT TCS34725](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Examples/IIC_TCS34725_RGB_Color_Sensor) Color Sensor Recognition Module
+5. DHT22 Temperature humity sensor (improve ranger accuracy)
