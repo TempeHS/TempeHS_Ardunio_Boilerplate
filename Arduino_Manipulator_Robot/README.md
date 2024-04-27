@@ -15,6 +15,7 @@ Design and build an autonomous OOP-controlled manipulator robot with an end effe
 11. Diodes
 12. 5x20 PCB Fuse holder 
 13. 5x20 fuse
+14. 100µF 25v capacitors for each servo
 
 ## Optional Components
 1. [IIC LCD Screen](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Examples/IIC_1602_LCD)
