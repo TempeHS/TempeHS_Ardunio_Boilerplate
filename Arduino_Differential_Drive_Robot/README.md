@@ -15,7 +15,7 @@ Design and build an autonomous OOP-controlled differential drive robot as a mech
 12. Diodes
 13. 5x20 PCB Fuse holder 
 14. 5x20 fuse
-15. 100µF 25v capacitors
+15. 2x 100µF 25v capacitors
 
 ## Optional Components
 1. Micro Servo Motor - mount ultrasonic sensor
