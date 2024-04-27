@@ -1,5 +1,5 @@
 # Arduino Manipulator Robot Boilerplate
-Design and build an autonomous OOP-controlled manipulator robot with an end effector that picks and sorts small cubes as a mechatronic prototype for an industrial assembley line. The core function of your robot is to pick and sort 25*25*25mm coloured plastic cubes. As part of your design, you will need to design the pick and sort zones. There is no specification for the degrees of freedom as long as the robot can perform its core function. Your robot must be able to sort at least two different colours. You can choose from black, white, blue, green or red cubes, which will be provided before design and testing.
+Design and build an autonomous OOP-controlled manipulator robot with an end effector that picks and sorts small cubes as a mechatronic prototype for an industrial assembley line. The core function of your robot is to pick and sort 25*25*25mm coloured plastic cubes. As part of your design, you can define or design the pick and sort zones. There is no specification for the degrees of freedom as long as the robot can perform its core function. Your robot must be able to sort at least two different colours. You can choose from black, white, blue, green or red cubes, which will be provided.
 
 ## Core Components
 1. Up to 6x 270° or 180° RDS3115mg Servo Motors
