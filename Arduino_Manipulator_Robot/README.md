@@ -1,10 +1,11 @@
 # Arduino Manipulator Robot Boilerplate
+Design and build an autonomous OOP-controlled manipulator robot with an end effector that picks and sorts small cubes. The core function of your robot is to pick and sort 25*25mm coloured plastic cubes. As part of your design, you will need to design the pick and sort zones. There is no specification for the degrees of freedom as long as the robot can perform its core function. Your robot must be able to sort at least two different colours you can choose from black, white, blue, green or red cubes.
 
 ## Core Components
 1. Up to 6x 270° or 180° RDS3115mg Servo Motors
 2. Arduino Uno
 3. HC-SR04 Ultrasonic Sensor
-4. [IIC TZT TCS34725](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Examples/IIC_TCS34725_RGB_Color_Sensor) Color Sensor Recognition Module or Digital Line Finder (detect B&W or RGB)
+4. [IIC TZT TCS34725](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Examples/IIC_TCS34725_RGB_Color_Sensor) RGB color sensor or Digital Line Finder to sense black or white.
 5. Robot Clamp Gripper
 6. Servo Brackets
 7. Rotating head base
