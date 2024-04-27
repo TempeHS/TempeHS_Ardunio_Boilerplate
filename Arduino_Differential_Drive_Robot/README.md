@@ -1,4 +1,5 @@
 # Arduino Differential Drive Robot Boilerplate
+Design and build an autonomous OOP-controlled differential drive robot as a mechatronic prototype for an industrial warehouse. Your robot's core function is to follow a black line, identify and avoid objects, and provide a basic UI that informs observers of its current state. A track will be provided before design and testing.
 
 ## Core Components
 1. 2x [Continuous Servo Motors](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Examples/ContinuosServo)
@@ -19,5 +20,5 @@
 1. Micro Servo Motor - mount ultrasonic sensor
 2. Micro Switch - collision detection
 3. [IIC LCD Screen](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Examples/IIC_1602_LCD)
-4. [IIC TZT TCS34725](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Examples/IIC_TCS34725_RGB_Color_Sensor) Color Sensor Recognition Module
-5. DHT22 Temperature humity sensor ([improve ranger accuracy](https://github.com/SpulberGeorge/EasyUltrasonic/tree/main))
+4. [IIC TZT TCS34725](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Examples/IIC_TCS34725_RGB_Color_Sensor) RGB color sensor
+5. DHT22 Temperature & Humidity sensor ([improve ranger accuracy](https://github.com/SpulberGeorge/EasyUltrasonic/tree/main))
