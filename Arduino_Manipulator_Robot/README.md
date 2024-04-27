@@ -11,8 +11,10 @@
 8. Dupont Cables
 9. 2x 3.7v 18650 Polymer Lithium Ion Battery
 10. 2x LiPo holder
-11. Buck Module
+11. Diodes
+12. 5x20 PCB Fuse holder 
+13. 5x20 fuse
 
 ## Optional Components
 1. [IIC LCD Screen](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Examples/IIC_1602_LCD)
-2. Temperature humity sensor (improve ranger accuracy)
+2. DHT22 Temperature humity sensor ([improve ranger accuracy](https://github.com/SpulberGeorge/EasyUltrasonic/tree/main))

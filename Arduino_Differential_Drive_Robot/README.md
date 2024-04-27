@@ -11,11 +11,13 @@
 9. Dupont Cables
 10. 2x 3.7v 18650 Polymer Lithium Ion Battery
 11. 2x LiPo holder
-12. Buck Module
+12. Diodes
+13. 5x20 PCB Fuse holder 
+14. 5x20 fuse
 
 ## Optional Components
 1. Micro Servo Motor - mount ultrasonic sensor
 2. Micro Switch - collision detection
 3. [IIC LCD Screen](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Examples/IIC_1602_LCD)
 4. [IIC TZT TCS34725](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Examples/IIC_TCS34725_RGB_Color_Sensor) Color Sensor Recognition Module
-5. DHT22 Temperature humity sensor (improve ranger accuracy)
+5. DHT22 Temperature humity sensor ([improve ranger accuracy](https://github.com/SpulberGeorge/EasyUltrasonic/tree/main))
