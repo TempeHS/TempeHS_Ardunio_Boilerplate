@@ -1,5 +1,5 @@
 # Arduino MAAS Tinkershield 1st Robot Boilerplate
-Design an OOP library for a simple year 7 or 8 learning mechatrontics robot built on the MAAS Tinkershield. The core function of your mechatrontic solution is simplify the mainline with methods and extend the hardware to include a simple end effector and a UI display of states to support debugging.
+Design and build an educational robot driven by an OOP library and built on the MAAS Tinkershield. The core functions of your mechatrontic solution is to provide learners with a simplified mainline using methods and extend the hardware with a basic end effector to add a mechatronics element and a UI display of states to support user debugging.
 
 ## Core Components
 1. MAAS Tinkershield
@@ -11,10 +11,10 @@ Design an OOP library for a simple year 7 or 8 learning mechatrontics robot buil
 6. Dupont cables
 7. 9v Battery
 8. 9v Battery Snap
-10. 100µF 25v capacitors
+10. 100µF 25v capacitor
 
 ## Support Information
-Feedback from students is that the 'Crack the code' examples are too confusing and require too many mainline commands. Feedback from educators is that it doesn't have any obvious mechatronic functions built into the hardware.
+Feedback from students is that the 'Crack the code' examples are too confusing and require too many setup and mainline commands. Feedback from educators is that it doesn't have any obvious mechatronic functions built into the hardware.
 
 These documents and sample code will help you see how the shield and microcontroller is used in a non OOP way.
 1. [Non OOP Code Samples](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/Arduino_MAAS_Tinkershield_1st_Robot/tas-s4-s5-coding-samples.zip)
