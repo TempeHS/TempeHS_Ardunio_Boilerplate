@@ -11,6 +11,7 @@ Design an OOP library for a simple year 7 or 8 learning mechatrontics robot buil
 6. Dupont cables
 7. 9v Battery
 8. 9v Battery Snap
+10. 100µF 25v capacitors
 
 ## Support Information
 Feedback from students is that the 'Crack the code' examples are too confusing and require too many mainline commands. Feedback from educators is that it doesn't have any obvious mechatronic functions built into the hardware.
