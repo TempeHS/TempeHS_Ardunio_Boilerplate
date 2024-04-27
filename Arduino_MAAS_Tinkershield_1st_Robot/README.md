@@ -9,6 +9,7 @@
 6. Dupont to Aligator Clip Cables
 7. 9v Battery
 8. 9v Battery Snap
+10. 100µF 25v capacitors
 
 ## Support Documents
 These documents and sample code will help you see how the shield and microcontroller is used in a non OOP way.
