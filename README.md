@@ -111,10 +111,9 @@
     2. 1N5404 3A 100V Rectifier Diode 0.7voltage drop
     3. 1N5819 1A 40V Schottky Rectifier Diode ~0.5voltage drop
     4. 1N5822 3A 40V Schottky Rectifier Diode ~0.5voltage drop     
-
-***Notes:***
-1. *Place in series for additive effect to voltage drop*
-2. *Place in parralel for additive effect to amperage flow*
+    ***Notes:***
+        1. *Place in series for additive effect to voltage drop*
+        2. *Place in parralel for additive effect to amperage flow*
 
 ## TempeHS Power Over Current Control
 1. 5x20 PCB Fuse Holder
