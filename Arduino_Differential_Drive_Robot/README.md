@@ -1,5 +1,5 @@
 # Arduino Differential Drive Robot Boilerplate
-Design and build an autonomous OOP-controlled differential drive robot prototype for an industrial storage warehouse. Your robot's core function is to follow a black line, identify and avoid objects, and provide a basic UI that informs observers of its current state. The test track and will be provided for you.
+Design and build an autonomous OOP-controlled differential drive mechatronic prototype for transportation in an industrial storage warehouse. Your systems's core function is to follow a black line, identify and avoid objects. Your system should also provide a basic UI that informs observers of its current state. The test track and will be provided to you.
 
 ## Core Components
 1. 2x [Continuous Servo Motors](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Examples/ContinuosServo)
