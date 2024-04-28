@@ -105,7 +105,7 @@
 6. 5v USB breadboard powerhead
 
 ## TempeHS Power Conditioning
-1. DC to DC Step Down Module (Only suitable for large shifts in voltage and amperage)
+1. XL4015 DC to DC Step Down Module
 2. Diodes
     1. 1N4934 1A 100V Rectifier Diode 0.7voltage drop
     2. 1N5404 3A 100V Rectifier Diode 0.7voltage drop
