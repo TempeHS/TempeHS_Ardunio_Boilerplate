@@ -12,7 +12,7 @@ Design and build an autonomous OOP-controlled differential drive mechatronic pro
 9. Dupont Cables
 10. 2x 3.7v 18650 Polymer Lithium Ion Battery
 11. 2x LiPo holder
-12. Diodes
+12. XL4015 DC to DC Converter Module (alternative to use Diodes in series)
 13. 5x20 PCB Fuse holder 
 14. 5x20 fuse
 15. 2x 100µF 25v capacitors
