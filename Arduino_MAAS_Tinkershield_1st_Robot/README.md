@@ -1,5 +1,5 @@
 # Arduino MAAS Tinkershield 1st Robot Boilerplate
-Design and build an educational mechatronics system driven by an OOP library and built on the MAAS Tinkershield. The core functions of your system is to provide users with a simplified mainline that they can design their own solutions and extend the hardware with a basic end effector. To assist with user debugging you are required to add a UI display of states.
+Design and build an educational mechatronics system driven by an OOP library and built on the MAAS Tinkershield. The core functions of your system are to provide users with a simplified mainline so that they can design their solutions and extend the hardware with a basic end effector. To assist with user debugging you are required to add a UI display of states.
 
 ## Core Components
 1. MAAS Tinkershield
