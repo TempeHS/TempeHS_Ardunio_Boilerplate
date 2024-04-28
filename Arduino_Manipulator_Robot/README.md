@@ -12,7 +12,7 @@ Design and build an autonomous OOP-controlled manipulator mechatronics prototype
 8. Dupont Cables
 9. 2x 3.7v 18650 Polymer Lithium Ion Battery
 10. 2x LiPo holder
-11. Diodes
+11. XL4015 DC to DC Converter Module (alternative to use Diodes in series)
 12. 5x20 PCB Fuse holder 
 13. 5x20 fuse
 14. 100µF 25v capacitor for each servo
