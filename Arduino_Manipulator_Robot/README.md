@@ -1,11 +1,11 @@
 # Arduino Manipulator Robot Boilerplate
-Design and build an autonomous OOP-controlled manipulator mechatronics prototype for an industrial assembly line. The core function of your system is to use an end effector to pick and sort 25x25x25mm coloured cubes. You can choose between 3 to 6 'degrees of freedom' and design the pick and sort zones to suit your system. Your mechatronic system must be able to sort at least two different coloured (black, white, blue, green or red) cubes which will be provided to you.
+Design and build an autonomous OOP-controlled manipulator mechatronics prototype for an industrial assembly line. The core function of your system is to use an end effector to pick and sort 25x25x25mm coloured cubes. You can choose between 3 to 6 'degrees of freedom' and design the pick-and-sort zones to suit your system. Your mechatronic system must be able to sort at least two coloured (black, white, blue, green, or red) cubes, which will be provided to you.
 
 ## Core Components
 1. Up to 6x 270° or 180° RDS3115mg Servo Motors
 2. Arduino Uno R4 Wfi
 3. HC-SR04 Ultrasonic Sensor
-4. [IIC TZT TCS34725](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Examples/IIC_TCS34725_RGB_Color_Sensor) RGB color sensor or Digital Line Finder to sense black or white.
+4. [IIC TZT TCS34725](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Examples/IIC_TCS34725_RGB_Color_Sensor) RGB colour sensor or Digital Line Finder to sense black or white.
 5. Robot Clamp Gripper
 6. Servo Brackets
 7. Rotating head base
