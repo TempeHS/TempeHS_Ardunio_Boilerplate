@@ -15,6 +15,10 @@ LCD_I2C lcd(0x27, 16, 2);
 void setup() {
   lcd.begin();
   lcd.backlight(); //open the backlight
+  lcd.setCursor(0, 0);
+  lcd.print("v0.0.001");
+  delay(2000);
+  lcd.clear();
 }
 
 void loop() {
