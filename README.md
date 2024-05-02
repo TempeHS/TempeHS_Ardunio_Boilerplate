@@ -43,9 +43,14 @@
 
 ## TempeHS Actuators
 - 180Deg Micro Servos Max load: plastic geared is 9g & metal geared is 13.4g
-- 360Deg continuous Servos
-  - Parralax Continuos Servo
-  - ??? Continuos Servo
+- Continuous Servos
+  - Parralax 900-00008 v1.0
+  - Emoro DM0100
+- 180 Degree Servos
+ - RDS3115
+ - HiTec HS-625
+- 270 Degree Servos
+ - RDS3115
 - Bi-axial right angle 1:48 DC geared hobby motor (plastic & metal geared)
 - 3.7V 716RPM Micro Coreless DC Motors
 - 3.7V 8520RMP Micro Coreless DC Motors

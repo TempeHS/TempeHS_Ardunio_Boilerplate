@@ -16,6 +16,6 @@ void setup() {
 }
 
 void loop() {
-  servo.writeMicroseconds(700);  //2300 fast forward, 2300 fast backards, 1500 stop
+  servo.writeMicroseconds(700);  //2300 fast forward, 700 fast backards, 1500 stop
   //delay(100); // requires short delay as loop breaks frequency
 }
