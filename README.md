@@ -48,9 +48,11 @@
   - Emoro DM0100
 - 180 Degree Servos
  - RDS3115
+ - DS3115
  - HiTec HS-625
 - 270 Degree Servos
  - RDS3115
+ - DS3115
 - Bi-axial right angle 1:48 DC geared hobby motor (plastic & metal geared)
 - 3.7V 716RPM Micro Coreless DC Motors
 - 3.7V 8520RMP Micro Coreless DC Motors
