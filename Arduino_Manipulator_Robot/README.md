@@ -5,7 +5,7 @@ Design and build an autonomous OOP-controlled manipulator mechatronics prototype
 1. Up to 6x 270°/180° RDS3115mg/DS3115mg Servo Motors
 2. Arduino Uno R4 Wfi
 3. HC-SR04 Ultrasonic Sensor
-4. [IIC TZT TCS34725](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Examples/IIC_TCS34725_RGB_Color_Sensor) RGB colour sensor or Digital Line Finder to sense black or white.
+4. [IIC TZT TCS34725](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Examples/IIC_TCS34725_RGB_Color_Sensor) RGB colour sensor or Digital/Analog Line Finder to sense black or white.
 5. Robot Clamp Gripper
 6. Servo Brackets
 7. Rotating head base
