@@ -7,7 +7,7 @@ Design and build an autonomous OOP-controlled differential drive mechatronic pro
 3. 1x Omni-Wheel
 4. Arduino Uno
 6. HC-SR04 Ultrasonic Sensor
-7. 5 Channel Analogue Line Finder or 1 or more Digital Line Finder
+7. 5 Channel Digital Line Finder or 1 or more Digital/Analog Line Finder
 8. Chasis
 9. Dupont Cables
 10. 2x 3.7v 18650 Polymer Lithium Ion Battery
