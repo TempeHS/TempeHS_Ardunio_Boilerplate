@@ -16,6 +16,7 @@ Design and build an autonomous OOP-controlled manipulator mechatronics prototype
 12. 5x20 PCB Fuse holder 
 13. 5x20 fuse
 14. 100µF 25v capacitor for each servo
+15. 100nf ceramic capacitor for each servo
 
 ## Optional Components
 1. [IIC LCD Screen](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Examples/IIC_1602_LCD)
