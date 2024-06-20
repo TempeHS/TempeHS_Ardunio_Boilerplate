@@ -1,13 +1,16 @@
 /*
   Purpose: Basic example using LED matrix as a UI
   Notes: 
-    1. Use https://ledmatrix-editor.arduino.cc/ to draw shapes
+    1. Must install ArduinoGraphics from the Library Manager https://github.com/arduino-libraries/ArduinoGraphics
+	2. Arduino_LED_Matrix is installed by board manager with R4 package
+	2. Use https://ledmatrix-editor.arduino.cc/ to draw shapes
     2. requires Arduino Uno Wifi R4
     3. Documentation here (including scrolling text) https://docs.arduino.cc/tutorials/uno-r4-wifi/led-matrix/
-  Author: Ben Jones 26/4/24
+  Author: Ben Jones 20/6/24
   Contact: benjmain.jones21@det.nsw.edu.au
 */
 
+#include "ArduinoGraphics.h"
 #include "Arduino_LED_Matrix.h"
 
 const uint32_t arrow_left[] = {
@@ -42,20 +45,13 @@ ArduinoLEDMatrix matrix;
 
 void setup() {
   Serial.begin(9600);
-  matrix.begin();
-
-  matrix.beginDraw();
-  matrix.stroke(0xFFFFFFFF);
-  matrix.textScrollSpeed(50);
-  const char text[] = "v0.0.001";
-  matrix.textFont(Font_4x6);
-  matrix.beginText(0, 1, 0xFFFFFF);
-  matrix.println(text);
-  matrix.endText();
-  matrix.endDraw();
-
-  delay(3000);
-
+   matrix.begin();
+   matrix.textFont(Font_5x7);
+   matrix.textScrollSpeed(100);
+   matrix.stroke(0xFF, 0, 0);
+   matrix.beginText(0, 1, 0xFF, 0, 0);
+   matrix.print("V00.00.01");
+   matrix.endText(SCROLL_LEFT);
 }
 
 void loop() {
