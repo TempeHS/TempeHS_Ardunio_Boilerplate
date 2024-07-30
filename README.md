@@ -116,8 +116,8 @@
 2. Diodes
     1. 1N4934 1A 100V Rectifier Diode 0.7voltage drop
     2. 1N5404 3A 100V Rectifier Diode 0.7voltage drop
-    3. 1N5819 1A 40V Schottky Rectifier Diode ~0.5voltage drop
-    4. 1N5822 3A 40V Schottky Rectifier Diode ~0.5voltage drop     
+    3. 1N5819 1A 40V Schottky Rectifier Diode ~0.3 voltage drop
+    4. 1N5822 3A 40V Schottky Rectifier Diode ~0.3 voltage drop     
     ***Notes:***
         1. *Place in series for additive effect to voltage drop*
         2. *Place in parralel for additive effect to amperage flow*
