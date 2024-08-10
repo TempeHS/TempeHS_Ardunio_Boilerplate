@@ -23,6 +23,12 @@ The fuse protects microcontrollers, sensors, and motors from an over-amperage si
 ## Capacitors
 A 100nF ceramic and 100uF aluminium capacitor on each servo will filter out any noise from the power supply, improving the accuracy of the signal from the microcontroller. Users can choose between both capacitors, just an aluminium capacitor or the module will still work without any capacitors soldered in place.
 
+## Connecting VIN
+A 2x LIPO battery holder with switch can be connected to either screw terminals or the wires soldered directly to the PCB.
+
+## Connecting VOUT
+Wires out can be connected to screw terminals, soldered directly to the PCB or dupont cables from the V/GND row of Pins.
+
 ## Components
 ### Required
 1. Male header pins
@@ -32,5 +38,5 @@ A 100nF ceramic and 100uF aluminium capacitor on each servo will filter out any 
 1. VREG (see above notes)
 2. 100nF ceramic capacitor (1 for each servo powered)
 3. 100uF Aluminum Electronic Capacitors (1 for each servo powered)
-4. Screw terminals (you can solder wires direct to PCB or connect VOUT from the v/GND row of PINS)
+4. Screw terminals
 5. 20x5 Fuse Holder & 20x5 1A fuse
