@@ -1,7 +1,8 @@
 # Servo Module
 The Servo Module is designed for easy powering of a microcontroller and up to 6 servos using simple components and PCB laid out for easy soldering. PCB prints can be printed through [Elcrow](https://www.elecrow.com/pcb-manufacturing.html) for less than $2ea with delivery. Components are cheaply sourced from Little Bird, Core, Element14 or Aliexpress.
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Front of Module](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/TempeHS_Sensor_Catalogue/ServoModule/front.svg)
+![Back of Module](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/TempeHS_Sensor_Catalogue/ServoModule/back.svg)
 
 ## Powering different microcontrollers:
 1. **Arduino Uno** jump VREG and power to 5.1 jack or LM7805 VREG power to VIN & GND pin
