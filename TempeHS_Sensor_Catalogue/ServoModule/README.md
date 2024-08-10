@@ -15,7 +15,7 @@ Download the GERBER file [here](https://github.com/TempeHS/TempeHS_Ardunio_Boile
 5. Power any microcontroller independently and connect the module GND to microcontroller GND (D1 will not be required).
 
 ## Sensor V/GND Pins
-A row of V and GND pins is provided to supply additional modules/sensors, as most microcontrollers only have 1-2 power supply pins. The V row is powered from the VREG circuit, and the NC jumper can be cut with a Stanley knife to isolate the pins so they can be connected to the Microcontroller V out by a jumper lead for a different voltage.
+A row of V and GND pins is provided to supply additional modules/sensors, as most microcontrollers only have 1-2 power supply pins. The V row is powered from the VREG circuit, and the NC jumper can be cut with a Stanley knife to isolate the pins so they can be connected to a Microcontroller VOUT by a jumper lead for a different voltage.
 
 ## Fuse
 The fuse protects microcontrollers, sensors, and motors from an over-amperage situation and is recommended. If a fuse is not required, you can solder the two jumpers on the back of the PCB.
@@ -32,11 +32,11 @@ Wires out can be connected to screw terminals, soldered directly to the PCB or d
 ## Components
 ### Required
 1. Male header pins
-2. 3x 1N5819 Diodes
+2. 3x 1N5819 Diodes (D1, D2, & D3)
 
 ### Optional
-1. VREG (see above notes)
-2. 100nF ceramic capacitor (1 for each servo powered)
-3. 100uF Aluminum Electronic Capacitors (1 for each servo powered)
-4. Screw terminals
-5. 20x5 Fuse Holder & 20x5 1A fuse
+1. LM7805 or LD1117V33 (VREG)
+2. 100uF Aluminum Electronic Capacitors (C1, C2, C3, C4, C5, & C6)
+3. 100nF ceramic capacitor (C7, C8, C9, C10, C11, & C12)
+4. Screw terminals (VIN & VOUT)
+5. 20x5 PCB FUSE Holder & 20x5 1A FUSE (FUSE)
