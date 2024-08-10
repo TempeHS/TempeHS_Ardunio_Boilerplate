@@ -2,6 +2,8 @@
 The Servo Module is designed to easily power a microcontroller and up to 6 servos with 2x LIPO batteries. It uses simple components and a PCB laid out for easy soldering.
 PCBs can be printed through [Elcrow](https://www.elecrow.com/pcb-manufacturing.html) for less than $2ea with delivery. Components can be cheaply sourced from Little Bird, Core, Element14, or Aliexpress.
 
+Download the GERBER file [here]().
+
 ![Front of Module](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/TempeHS_Sensor_Catalogue/ServoModule/front.svg)
 ![Back of Module](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/TempeHS_Sensor_Catalogue/ServoModule/back.svg)
 
