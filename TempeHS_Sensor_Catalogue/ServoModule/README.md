@@ -21,11 +21,12 @@ The fuse protects microcontrollers, sensors, and motors from an over-amperage si
 ## Capacitors
 A 100nF ceramic and 100uF aluminium capacitor on each servo will filter out any noise from the power supply, improving the accuracy of the signal from the microcontroller. Users can choose between both capacitors, just an aluminium capacitor or the module will still work without any capacitors soldered in place.
 
-## Required Components
+## Components
+### Required
 1. Male header pins
 2. 3x 1N5819 Diodes
 
-Optional Components
+### Optional
 1. VREG (see above notes)
 2. 100nF ceramic capacitor (1 for each servo powered)
 3. 100uF Aluminum Electronic Capacitors (1 for each servo powered)
