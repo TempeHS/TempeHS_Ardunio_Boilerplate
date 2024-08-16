@@ -38,5 +38,5 @@ Wires out can be connected to screw terminals, soldered directly to the PCB or d
 1. LM7805 or LD1117V33 (VREG)
 2. 100uF Aluminum Electronic Capacitors (C1, C2, C3, C4, C5, & C6)
 3. 100nF ceramic capacitor (C7, C8, C9, C10, C11, & C12)
-4. Screw terminals (VIN & VOUT)
+4. CTB0158-2 Screw terminals (VIN & VOUT)
 5. 20x5 PCB FUSE Holder & 20x5 1A FUSE (FUSE)
