@@ -4,6 +4,8 @@ PCBs can be printed through [Elcrow](https://www.elecrow.com/pcb-manufacturing.h
 
 Download the GERBER file [here](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/TempeHS_Sensor_Catalogue/ServoModule/ServerModule_GERBER.zip).
 
+Download the Fritzing file to edit the circuit  [here](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/TempeHS_Sensor_Catalogue/ServoModule/ServoModule.fzz).
+
 ![Front of Module](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/TempeHS_Sensor_Catalogue/ServoModule/front.svg)
 ![Back of Module](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/TempeHS_Sensor_Catalogue/ServoModule/back.svg)
 
