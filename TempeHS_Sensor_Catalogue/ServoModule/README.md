@@ -14,7 +14,7 @@ Download the Fritzing file to edit the circuit  [here](https://github.com/TempeH
 2. **Arduino Nano** LM7805 VREG and power to VIN & GND pin
 3. **Microbit** LD1117V33 VREG connected to Microbit power connector
 4. **Raspberry PI PICO** LD1117V33 VREG connected to 39 VSYS & GND pin
-5. Power any microcontroller independently and connect the module GND to microcontroller GND (D1 will not be required).
+5. Power any microcontroller independently and connect the module GND to the microcontroller GND (VOUT terminal, VREG & D1 will not be required).
 
 ## Sensor V/GND Pins
 A row of V and GND pins is provided to supply additional modules/sensors, as most microcontrollers only have 1-2 power supply pins. The V row is powered from the VREG circuit, and the NC jumper can be cut with a Stanley knife to isolate the pins so they can be connected to a Microcontroller VOUT by a jumper lead for a different voltage.
