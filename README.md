@@ -31,13 +31,13 @@
 
 ## PipeLines
 ### Bootcamp PipeLine
-1. Fork the [TempeHS Arduino Bootcamp](https://github.com/TempeHS/TempeHS_Ardunio_Bootcamp) to a repo called `2023IST-Arduino-Bootcamp.Ben.Jones` (year is the year you graduate, and the name is your name)
+1. Fork the [TempeHS Arduino Bootcamp](https://github.com/TempeHS/TempeHS_Ardunio_Bootcamp) to a repo called `2023IST-Arduino-Bootcamp.Ben.Jones` (the year is the year you graduate, and the name is your name)
 2. As we work through the Bootcamp, `COMMIT` every successful solution you code out and either a picture of the TINKERCAD or a photo of the Arduino and breadboard
 
 ### BoilerPlate PipeLine
 1. Create a new GitHub Repo
 2. Copy the contents of the desired Boilerplate to the root of your folder
-3. Rename the *.ino file to be identical as the Repo name (Arduino IDE will error if syntax error)
+3. Rename the *.ino file to be identical as the Repo name (Arduino IDE will error if there is a syntax error)
 4. For any `#INCLUDE` libraries, you need to copy the contents of the library folder into the root of your folder
 5. Your `COMMIT`s should match your application development and testing
 
