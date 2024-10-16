@@ -6,7 +6,7 @@ What I need is a sports-specific prosthetic so I can climb again!
 If you would like to know more about what I need, please email me Aaron c/o benjamin.jones21@det.nsw.edu.au
 
 ## Summary of Medical notes
-- Mid-section rans-radial amputations of the right arm
+- Mid-section trans-radial amputations of the right arm
 - Amputations due to trauma beyond repair
 - No adherent scar tissue
 - Ulnohumeral joint is healthy and articulates normally
