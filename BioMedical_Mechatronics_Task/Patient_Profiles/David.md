@@ -7,7 +7,7 @@ If you would like to know more about what I need, please email me David c/o benj
 
 ## Summary of Medical notes
 - Mid-section trans-radial amputations of the left arm
-- Mid-section rans-radial amputations of the right arm
+- Mid-section trans-radial amputations of the right arm
 - Both amputations due to trauma beyond repair
 - No adherent scar tissue
 - Ulnohumeral joint is healthy and articulates normally
