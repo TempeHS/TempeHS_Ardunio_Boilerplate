@@ -34,7 +34,7 @@ bool BMP280::init(int i2c_addr) {
 float BMP280::getTemperature(void) {
   int32_t var1, var2;
   int32_t adc_T = bmp280Read24(BMP280_REG_TEMPDATA);
-  // Check if the last transport successed
+  // Check if the last transport succeeded
   if (!isTransport_OK) {
     return 0;
   }
@@ -53,7 +53,7 @@ uint32_t BMP280::getPressure(void) {
   int64_t var1, var2, p;
   // Call getTemperature to get t_fine
   getTemperature();
-  // Check if the last transport successed
+  // Check if the last transport succeeded
   if (!isTransport_OK) {
     return 0;
   }

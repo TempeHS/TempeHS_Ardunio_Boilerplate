@@ -3,7 +3,7 @@
 AIDRIVER METHODS:
  - mrJonesDriving->rotateRight(200); // speed can be between 0-255
  - mrJonesDriving->rotateLeft(200); 
- - mrJonesDriving->driveForward(200,200); //Make mrJonesDriving drive forward left wheel speed 200 and right wheel speeed 200
+ - mrJonesDriving->driveForward(200,200); //Make mrJonesDriving drive forward left wheel speed 200 and right wheel speed 200
  - mrJonesDriving->driveBackward(200,200);
  - mrJonesDriving->brake(); // Make mrJonesDriving stop instantly 
  - mrJonesDriving->read(); Returns the measurement from the ultrasonic ranger in mm
@@ -49,7 +49,7 @@ Testing code:
       delay(2000);
       mrJonesDriving->rotateLeft(125);
 			delay(2000);
-      //Make mrJonesDriving drive forward left wheel speed 200 and right wheel speeed 200
+      //Make mrJonesDriving drive forward left wheel speed 200 and right wheel speed 200
       mrJonesDriving->driveForward(125,125);
       delay(2000);
       mrJonesDriving->driveBackward(125,125);

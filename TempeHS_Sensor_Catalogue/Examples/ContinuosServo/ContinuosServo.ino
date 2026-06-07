@@ -1,5 +1,5 @@
 /*
-  Purpose: Basic example of controlling a continuos servo
+  Purpose: Basic example of controlling a continuous servo
   Notes: 
     1. See attached schematic
     2. 100µF 25v capacitor
@@ -16,6 +16,6 @@ void setup() {
 }
 
 void loop() {
-  servo.writeMicroseconds(700);  //2300 fast forward, 700 fast backards, 1500 stop
+  servo.writeMicroseconds(700);  //2300 fast forward, 700 fast backwards, 1500 stop
   //delay(100); // requires short delay as loop breaks frequency
 }

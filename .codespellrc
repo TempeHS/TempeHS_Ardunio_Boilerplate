@@ -1,0 +1,5 @@
+[codespell]
+quiet-level = 3
+# Project-specific valid terms and identifiers
+ignore-words-list = infarction,isConnection,isconnection
+skip = *.pdf,*.ai,*.step,*.STEP,*.url,.git,*.svg

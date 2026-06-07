@@ -83,7 +83,7 @@ int DHT::readTempAndHumidity(float* data) {
     return 0;
 }
 
-//boolean S == Scale.  True == Farenheit; False == Celcius
+//boolean S == Scale.  True == Fahrenheit; False == Celsius
 float DHT::readTemperature(bool S) {
     if(_type == DHT10){
 		float temp[2];

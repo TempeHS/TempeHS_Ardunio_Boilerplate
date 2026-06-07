@@ -1,4 +1,4 @@
-# Seead Sensor Kit Coding Challanges
+# Seead Sensor Kit Coding Challenges
 1. Led that gets brighter as it gets darker
 2. OLED display weather station
 3. Thunderstorm warning station alarm

@@ -2,7 +2,7 @@
   Purpose: Basic example of reading data from DHT22 Sensor
   Notes: 
     1. See attached schematic
-    2. Servo atatched to pin 7
+    2. Servo attached to pin 7
   Author: Ben Jones 26/4/24
   Contact: benjmain.jones21@det.nsw.edu.au
 */

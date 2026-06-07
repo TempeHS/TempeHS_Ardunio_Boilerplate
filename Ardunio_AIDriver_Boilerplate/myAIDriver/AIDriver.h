@@ -6,7 +6,7 @@ Code is GNUGPL licensed: https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/
 Content is Creative Commons licensed: https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/LICENSE
 
 Source acknowledgements:
- - Original OOP concept and source Phil Legge: https://github.com/MrLegge/RoboCup No explict license
+ - Original OOP concept and source Phil Legge: https://github.com/MrLegge/RoboCup No explicit license
  - Ultrasonic source Erick Simoes: https://github.com/ErickSimoes/Ultrasonic MIT license: https://github.com/ErickSimoes/Ultrasonic/blob/master/LICENSE
  - L298N source Andrea Lombardo: https://github.com/AndreaLombardo/L298N GNUGPL license: https://github.com/AndreaLombardo/L298N/blob/master/LICENSE
 Last modified 22/12/2023

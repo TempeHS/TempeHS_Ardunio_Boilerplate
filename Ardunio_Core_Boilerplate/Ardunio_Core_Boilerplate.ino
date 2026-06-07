@@ -7,7 +7,7 @@
   Source: https://youtu.be/mHa1mUd1Kmg
 */
 
-// Store the Pin value as an interger so it can be used on pin and digital methods below.
+// Store the Pin value as an integer so it can be used on pin and digital methods below.
 int LED_PIN = 13;
 
 // The setup function runs once when you press reset or power the board

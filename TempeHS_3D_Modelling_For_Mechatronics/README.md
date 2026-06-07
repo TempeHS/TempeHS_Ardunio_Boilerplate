@@ -1,5 +1,5 @@
 # 3D Models 
-These models are provided to support rapid mechatontic prototyping. They have been deisgned and tested for TempeHS 3D printers and standard mechatronic components.
+These models are provided to support rapid mechatontic prototyping. They have been designed and tested for TempeHS 3D printers and standard mechatronic components.
 
 [3D Model Viewer](https://3dviewer.net/)
 [Thingiverse 3D models](https://www.thingiverse.com/)
@@ -14,7 +14,7 @@ These models are provided to support rapid mechatontic prototyping. They have be
 2. Jockey Wheel Mount - Simple friction fit mount to attached a mini jockey wheel to any surface.
 3. Micro Servo Linera Actuator - Under dev.
 4. Micro Servo Mount - Mount a micro servo motor - to be modified for aletraive mount positions.
-5. Micro Servo Straw & Stick Mount - Easiy attach a straw or stick to a micro servo motor.
+5. Micro Servo Straw & Stick Mount - Easily attach a straw or stick to a micro servo motor.
 6. Servo Actuator - Under dev.
 7. Sliding Micro Servo Claw - Simple claw mechanisim using a micro servo motor.
 8. Ultrasonic Sensor & Micro Servo Motor Mount - Mount a ultrasonic sensor on a server motor.

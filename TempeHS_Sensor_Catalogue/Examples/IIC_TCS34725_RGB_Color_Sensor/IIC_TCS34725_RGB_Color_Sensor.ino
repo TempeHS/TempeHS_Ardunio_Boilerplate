@@ -2,7 +2,7 @@
   Purpose: Basic example of IIC RGB Color Sensor TCS34725
   Notes: 
     1. All Libraries required or you can install "Adafruit TCS34725" from library manager
-    2. See wiring schematic, dedicated SCL/SDA shoudl be preffered
+    2. See wiring schematic, dedicated SCL/SDA should be preferred
   Author: Ben Jones 25/4/24
   Contact: benjmain.jones21@det.nsw.edu.au
 */

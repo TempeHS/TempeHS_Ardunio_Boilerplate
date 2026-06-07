@@ -1,9 +1,9 @@
 # TempeHS Sensors Catalogue:
 
 ## Environmental Sensors
-1. [Infrared Temperature Sensor](https://wiki.seeedstudio.com/Grove-Infrared_Temperature_Sensor/) - **Analog** - A non contact temperature sesnor that can measure surface temperature between -10° and 80°C.
+1. [Infrared Temperature Sensor](https://wiki.seeedstudio.com/Grove-Infrared_Temperature_Sensor/) - **Analog** - A non contact temperature sensor that can measure surface temperature between -10° and 80°C.
 2. [Air Quality Sensor](https://wiki.seeedstudio.com/Grove-Air_Quality_Sensor_v1.3/) - **Analog** - A sensor that detects the presence and level of carbon monoxide, alcohol, acetone, thinner & formaldehyde but does not distinguish between the gases.
-3. [Water Sensor](https://wiki.seeedstudio.com/Grove-Water_Sensor/) - **Digital** -  A sesnor that detects the presence or absence of any conductive fluid such as non distilled water.
+3. [Water Sensor](https://wiki.seeedstudio.com/Grove-Water_Sensor/) - **Digital** -  A sensor that detects the presence or absence of any conductive fluid such as non distilled water.
 4. [Gas Sensor (MQ9)](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Environment/Gas_Sensor_MQ9) - **Analog** -  A sensor that detects the presence and level of CO, CH4 & LPG but does not distinguish between the gases.
 5. [Temperature & Humidity*](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/Temp_and_Humid_Sensor) - **IIC** - A sensor that detects surrounding temperature and humidity.
 6. [Air Pressure*](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/Air_Pressure_Sensor) - **IIC** -  A sensor that detects surrounding atmospheric pressure.
@@ -27,7 +27,7 @@
 3. [Vibration Sensor](https://wiki.seeedstudio.com/Grove-Vibration_Sensor_SW-420/) - **Digital** - A high sensitivity non-directional vibration sensor, perfect for sensing vibration or tilt.
 4. [Joystick](https://arduinogetstarted.com/tutorials/arduino-joystick) - **Analog** - A bi-axel joystick with centre button press.
 5. [Gesture Sensor](https://wiki.seeedstudio.com/Grove-Gesture_v1.0/) - **IIC** - A sensor that can detect 9 Basic gestures (Up, Down, Left, Right, Forward, Backward, Clockwise, Count Clockwise & Wave).
-6. [12 Chanel Touch Sensor](https://wiki.seeedstudio.com/Grove-12-Key-Capacitive-IIC-Touch-Sensor-V3-MPR121/) - **IIC** - A multichannel proximity capacitive touch sensor. It's a 3-in-1 module with the following features: Capacitance Sensing, Touch Sensing, and Proximity Sensing.
+6. [12 Channel Touch Sensor](https://wiki.seeedstudio.com/Grove-12-Key-Capacitive-IIC-Touch-Sensor-V3-MPR121/) - **IIC** - A multichannel proximity capacitive touch sensor. It's a 3-in-1 module with the following features: Capacitance Sensing, Touch Sensing, and Proximity Sensing.
 
 ## Space and Movement
 1. [Mini PIR Motion Sensor](https://wiki.seeedstudio.com/Grove-PIR_Motion_Sensor/) - **Digital** - A small sensor that detects movement at a distance of 0 - 2m with adjustable sensitivity for trigger.
@@ -35,15 +35,15 @@
 3. [Ultrasonic Ranger*](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/Ultrasonic_Ranger) - **Digital** - A sensor that utilizes ultrasonic waves to measure distances by calculating the time between send and receive trigger.
 4. [3 Axis Acceleration Sensor*](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_Sensor_Catalogue/Sensor_Kit/3_Axis_Accel_Sensor) - **IIC** - A sensor that detects object acceleration on three different axes.
 5. [Time of Flight Distance Sensor](https://wiki.seeedstudio.com/Grove-Time_of_Flight_Distance_Sensor-VL53L0X/) - **IIC** - A laser-ranging sensor providing accurate distance measurement whatever the target reflectances which can measure absolute distances up to 2m.
-6. [Grove - Thermal Imaging Camera - 16x4 IR Array with 60° FOV](https://www.seeedstudio.com/Grove-Thermal-Imaging-Camera-MLX90621-BAB-16x4-IR-Array-with-60-FOV-p-5266.html) - [Libary](https://github.com/robinvanemden/MLX90621_Arduino_Processing) - **IIC** - The infrared thermal imaging module has a 16x4 resolution array of temperature sensors, which can detect the temperature of the object with an accuracy and return a low resolution image.
-7. [3-Axis Accelerometer & 3-Axis Gyroscope](https://wiki.seeedstudio.com/Grove-6-Axis_AccelerometerAndGyroscope/) - **IIC** - An integrated sensor combinating a 3-axis digital accelerometer and 3-axis digital gyroscope.
+6. [Grove - Thermal Imaging Camera - 16x4 IR Array with 60° FOV](https://www.seeedstudio.com/Grove-Thermal-Imaging-Camera-MLX90621-BAB-16x4-IR-Array-with-60-FOV-p-5266.html) - [Library](https://github.com/robinvanemden/MLX90621_Arduino_Processing) - **IIC** - The infrared thermal imaging module has a 16x4 resolution array of temperature sensors, which can detect the temperature of the object with an accuracy and return a low resolution image.
+7. [3-Axis Accelerometer & 3-Axis Gyroscope](https://wiki.seeedstudio.com/Grove-6-Axis_AccelerometerAndGyroscope/) - **IIC** - An integrated sensor combining a 3-axis digital accelerometer and 3-axis digital gyroscope.
 8. [3-Axis Digital Compass](https://wiki.seeedstudio.com/Grove-3-Axis_Digitial_Compass_v2.0/) - **IIC** - A digital compass sensor measures the magnatic field in three perpendicular axes.
 
 ## Biomedical
 1. [Ear-clip Heart Rate Sensor](https://wiki.seeedstudio.com/Grove-Ear-clip_Heart_Rate_Sensor/) - **Digital Pulse** - The Heart Rate Ear clip kit contains a ear clip and a receiver module which returns a HR measured in BPM, measures >=30bpm.
 2. [Finger or Wrist Strap Hear Rate Sensor](https://wiki.seeedstudio.com/Grove-Finger-clip_Heart_Rate_Sensor/) - **IIC** - This module is based on optical technology which measures the variation human blood movement in the vessel and returns a HR measured in BPM.
 3. [GSR (Galvanic Skin Response) Sensor]() - **Analog** - GSR Sensor stands for galvanic skin response and it is a method of measuring the electrical conductance of the skin. It can be used to reflect human emotional activity.
-4. [Step Counter](https://wiki.seeedstudio.com/Grove-Step_Counter-BMA456/) - **IIC** - A small, triaxial, low-g high performance accelerations module thats works as a portable pedometer.
+4. [Step Counter](https://wiki.seeedstudio.com/Grove-Step_Counter-BMA456/) - **IIC** - A small, triaxial, low-g high performance accelerations module that's works as a portable pedometer.
 5. [Alcohol Sensor](https://wiki.seeedstudio.com/Grove-Alcohol_Sensor/) - **Analog** - Alcohol Sensor which has good sensitivity and fast response to alcohol. It is suitable for making Breathalyzer. This sensor outputs a voltage inversely proportional to the alcohol concentration in air.
 
 ## Output

@@ -275,7 +275,7 @@ void Adafruit_TCS34725::getRGB(float *r, float *g, float *b) {
 uint16_t Adafruit_TCS34725::calculateColorTemperature(uint16_t r, uint16_t g,
                                                       uint16_t b) {
   float X, Y, Z; /* RGB to XYZ correlation      */
-  float xc, yc;  /* Chromaticity co-ordinates   */
+  float xc, yc;  /* Chromaticity coordinates   */
   float n;       /* McCamy's formula            */
   float cct;
 
@@ -291,7 +291,7 @@ uint16_t Adafruit_TCS34725::calculateColorTemperature(uint16_t r, uint16_t g,
   Y = (-0.32466F * r) + (1.57837F * g) + (-0.73191F * b);
   Z = (-0.68202F * r) + (0.77073F * g) + (0.56332F * b);
 
-  /* 2. Calculate the chromaticity co-ordinates      */
+  /* 2. Calculate the chromaticity coordinates      */
   xc = (X) / (X + Y + Z);
   yc = (Y) / (X + Y + Z);
 
@@ -435,7 +435,7 @@ void Adafruit_TCS34725::setInterrupt(boolean i) {
 }
 
 /*!
- *  @brief  Clears inerrupt for TCS34725
+ *  @brief  Clears interrupt for TCS34725
  */
 void Adafruit_TCS34725::clearInterrupt() {
   uint8_t buffer[1] = {TCS34725_COMMAND_BIT | 0x66};
@@ -443,7 +443,7 @@ void Adafruit_TCS34725::clearInterrupt() {
 }
 
 /*!
- *  @brief  Sets inerrupt limits
+ *  @brief  Sets interrupt limits
  *  @param  low
  *          Low limit
  *  @param  high

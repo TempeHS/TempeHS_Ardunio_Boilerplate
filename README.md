@@ -100,7 +100,7 @@
 1. Circuit design and testing: [TINKERCAD Circuits](https://www.tinkercad.com/dashboard?collection=designs&type=circuits)
 2. Flow chart design: [Draw.IO Diagrams](https://app.diagrams.net/)
 3. 3D Design & Models: [TempeHS_3D_Modelling_For_Mechatronics](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/tree/main/TempeHS_3D_Modelling_For_Mechatronics)
-4. Psuedocode: [TempeHS Psuedocode CheatSheet & Examples](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/PsuedeoCode%20StyleGuide.pdf)
+4. Pseudocode: [TempeHS Pseudocode CheatSheet & Examples](https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/PsuedeoCode%20StyleGuide.pdf)
 5. IPO Table: [Video Explaining IPO Tables](https://www.youtube.com/watch?v=a10a11oxjrA)
 
 ## TempeHS Power Supply
@@ -120,7 +120,7 @@
     4. 1N5822 3A 40V Schottky Rectifier Diode ~0.3 voltage drop     
     ***Notes:***
         1. *Place in series for additive effect to voltage drop*
-        2. *Place in parralel for additive effect to amperage flow*
+        2. *Place in parallel for additive effect to amperage flow*
 
 ## TempeHS Power Over Current Control
 1. 5x20 PCB Fuse Holder
@@ -141,10 +141,10 @@
 - PNP/NPN transistors - 2N222 C1815 S9014 BC548 2N2904 C945 S9015 BC549 SN3906 S8050 BC327 BC550 2N5551 S8550 BC337 BC556 SN5551 S9012 BC517 BC557 A1015 S9013 BC547 BC558
 - MOSFet - BS170 BS250 IRF9640 IRFZ24 IRF9630 IRFZ46 IRF540 IRF3710 IRF1010 IRF9630 IRF4905 IRF9540
 - Diode - 1N4001 1N4004 1N4007 FR107 FR207 RL207 UF4007 1N4148 1N5817 1N5819 1N5404 1N5406 1N5408 1N5822
-- Intergrated Circuits - NE555 LM324N LM393P UA741CN PC817 LM358P LM386N NE5532P ULN2803APG ULN2003APG
+- Integrated Circuits - NE555 LM324N LM393P UA741CN PC817 LM358P LM386N NE5532P ULN2803APG ULN2003APG
 - Connectors - Double row screw terminal block PCB screw wire terminal block
 - Switches - 3pin PCB sliding toggle switch NO momentary switches 3pin PCB mini limit switch NO NC 3 Pins PCB roller arc lever snap action push
-- Light dependant resistors
+- Light dependent resistors
 - Potentiometer - 10M Linear
 - Speaker - 8Ω 0.25W speaker, Piezo speaker
 - Wire - 30 AWG wrapping wire 13x0.12 Hook-up wire Conductive tape 22 AWG solid core hook-up wire

@@ -1,5 +1,5 @@
 /*
-  Purpose: Store your functions in this seperate file so your main.ino file is easy to read
+  Purpose: Store your functions in this separate file so your main.ino file is easy to read
   Author: Ben Jones 1/7/23
   Contact: benjmain.jones21@det.nsw.edu.au
   Source: https://youtu.be/mHa1mUd1Kmg

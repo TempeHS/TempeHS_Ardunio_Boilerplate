@@ -18,7 +18,7 @@ LIS3DHTR<TwoWire> LIS; //IIC
 void setup()
 {
   Serial.begin(9600);
-  LIS.begin(WIRE,0x19); //Configure wire communciation to 0x19 address
+  LIS.begin(WIRE,0x19); //Configure wire communication to 0x19 address
   LIS.openTemp();
   delay(100);
     LIS.setFullScaleRange(LIS3DHTR_RANGE_2G);
