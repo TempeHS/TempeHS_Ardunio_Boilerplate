@@ -1,0 +1,25 @@
+{
+    "name": "Arduino Development",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu-24.04",
+    "features": {
+        "ghcr.io/devcontainers/features/common-utils:2": {}
+    },
+    "postCreateCommand": "curl -fsSL https://raw.githubusercontent.com/arduino/arduino-cli/master/install.sh | sh && mv bin/arduino-cli /usr/local/bin/ && arduino-cli core update-index && arduino-cli core install arduino:avr",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-vscode.cpptools",
+                "ms-vscode.cpptools-extension-pack",
+                "vsciot-vscode.vscode-arduino",
+                "ms-vscode.vscode-serial-monitor",
+                "yusifaliyevpro.vscicons",
+                "streetsidesoftware.code-spell-checker",
+                "streetsidesoftware.code-spell-checker-british-english"
+            ],
+            "settings": {
+                "arduino.useArduinoCli": true,
+                "arduino.clearOutputOnBuild": true
+            }
+        }
+    }
+}

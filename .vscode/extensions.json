@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "ms-vscode.cpptools",
+        "ms-vscode.cpptools-extension-pack",
+        "vsciot-vscode.vscode-arduino",
+        "ms-vscode.vscode-serial-monitor",
+        "yusifaliyevpro.vscicons",
+        "streetsidesoftware.code-spell-checker",
+        "streetsidesoftware.code-spell-checker-british-english"
+    ]
+}
