@@ -1,6 +1,6 @@
 {
     "name": "Arduino Development",
-    "image": "mcr.microsoft.com/devcontainers/base:ubuntu-26.04",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
     "features": {
         "ghcr.io/devcontainers/features/common-utils:2": {}
     },
