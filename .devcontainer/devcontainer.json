@@ -1,6 +1,6 @@
 {
     "name": "Arduino Development",
-    "image": "mcr.microsoft.com/devcontainers/base:ubuntu-24.04",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu-26.04",
     "features": {
         "ghcr.io/devcontainers/features/common-utils:2": {}
     },
@@ -10,11 +10,10 @@
             "extensions": [
                 "ms-vscode.cpptools",
                 "ms-vscode.cpptools-extension-pack",
-                "vsciot-vscode.vscode-arduino",
-                "ms-vscode.vscode-serial-monitor",
                 "yusifaliyevpro.vscicons",
                 "streetsidesoftware.code-spell-checker",
-                "streetsidesoftware.code-spell-checker-british-english"
+                "streetsidesoftware.code-spell-checker-british-english",
+                "benpaddlejones.arduino-to-codespaces-bridge"
             ],
             "settings": {
                 "arduino.useArduinoCli": true,
